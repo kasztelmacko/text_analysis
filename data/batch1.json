@@ -1,0 +1,1583 @@
+[
+    {
+        "url": "https://activtrak.com/pricing",
+        "company": "activtrak",
+        "ai_pricing_model": "Tiered",
+        "category": "Human Resources & Legal",
+        "data": {
+            "call_to_action": "Get started free",
+            "tier_names": [
+                "Free",
+                "Essentials",
+                "Essentials Plus",
+                "Professional"
+            ],
+            "tier_prices": [
+                "$0",
+                "$10",
+                "$15",
+                "$19"
+            ],
+            "frequently_asked_questions": [
+                "How does the free trial work?",
+                "What\u2019s included in each of the support packages?",
+                "How do I purchase support packages?",
+                "How do I get API access to my account data?",
+                "How do I get additional data history?",
+                "How do I purchase Screen Details?",
+                "How can I upgrade my plan?",
+                "What happens if I exceed the number of licenses purchased?",
+                "Do you offer monthly payment plans?",
+                "Do I have to sign a long-term contract? How do I cancel/delete my account?",
+                "How do I know my data is secure?"
+            ],
+            "frequently_asked_questions_answers": [
+                "A free trial gives you access to the full version of the Professional plan for 14 days. As a trial user, you get to explore all the exclusive insights and analytics available in ActivTrak, and experience the value we provide to you as a customer. Trial plans are automatically downgraded to a Free plan at the conclusion of the trial period. Free plans are restricted to three users and have limited application functionality.",
+                "ActivTrak offers three US-based support plan tiers to suit a wide range of needs: Digital Support, Premier Support and Signature Support. For a description of what\u2019s included in each tier, visit https://www.activtrak.com/support/. ",
+                "You can purchase support plans or custom professional services by contacting our sales team. Please note that a paid support plan is required for any purchase involving more than 50 licenses to ensure optimal setup, performance, and ongoing assistance.",
+                "ActivConnect API is a set of API connectors and tools that enable access to your ActivTrak data in hundreds of external applications. The ActivConnect API add-on includes a cloud-based SQL query interface, API compatibility with business and analytic software, BI starter templates for Microsoft Power BI, Tableau, Google Looker Studio and more. To purchase ActivConnect, please contact sales@activtrak.com or use the Chat icon below to connect with our team immediately.",
+                "Accounts with a paid plan can extend their total data history to increments of one year up to a maximum of three years to enable longer-term comparison and data trend analysis. The Data History add-on is available for $1 per user/month and can be purchased by contacting us.",
+                "The Screen Details add-on unlocks access to granular work activity data such as screenshots, screen views, title bars, full URLs and the ability to set alarms and block websites. To purchase, admins can add Screen Details to their paid plan within the ActivTrak app, via email at sales@activtrak.com or use the Chat icon below to connect with our team immediately.",
+                "Admins can upgrade their plan in the ActivTrak app or through our sales team. For more details, please contact sales@activtrak.com or use the Chat icon below to connect with our team immediately.",
+                "If you exceed the allotted number of users on your account, we will notify you via email and dashboard prompts so you can take immediate action. You will receive a 14-day grace period to purchase additional licenses or make adjustments to bring the user count within the allocated limit. Beyond the 14-day period, you will not see any data in your reports until the user count is brought back within the allowed limits of your plan.",
+                "We currently only offer annual plans. If you would like to know more or explore other options, please contact sales@activtrak.com or use the Chat icon below to connect with our team immediately.",
+                "All ActivTrak plans are billed on an annual contract basis. We also offer exclusive discounts for multi-year contracts. Email sales@activtrak.com to inquire about custom quotes, pricing or invoicing questions. To cancel/delete your account (Free or Paid), please review this article for more detail.",
+                "ActivTrak is a certified SOC 2 Type 2 compliant platform. Your data is stored in highly secure data centers on state-of-the-art computer servers protected by 24-hour surveillance. Our product and infrastructure is updated regularly with the latest security patches. Our network is protected by a firewall and all ActivTrak plans include SSL encryption to keep your data safe. For more details on our security and privacy practices, check out: https://www.activtrak.com/security/"
+            ]
+        }
+    },
+    {
+        "url": "https://aftership.com/pricing",
+        "company": "aftership",
+        "ai_pricing_model": "Tiered",
+        "category": "Supply Chain & Logistics",
+        "data": {
+            "call_to_action": "Learn more",
+            "tier_names": [
+                "Essentials",
+                "Pro",
+                "Premium",
+                "Enterprise",
+                "Free",
+                "Team",
+                "Enterprise (Support)"
+            ],
+            "tier_prices": [
+                "$9/month",
+                "$99/month",
+                "$199/month",
+                "Custom",
+                "Free",
+                "$10/member/month",
+                "20% of the product subscription fee (Silver)",
+                "30% of the product subscription fee (Gold)"
+            ],
+            "frequently_asked_questions": [
+                "What\u2019s your uptime guarantee?",
+                "How do I switch to another plan?",
+                "How does SMS pricing work?",
+                "What payment methods do you support?",
+                "What if I go over my shipment quota?"
+            ],
+            "frequently_asked_questions_answers": [
+                "AfterShip guarantees 99.9% monthly uptime guarantee. If it is not met, we\u2019ll refund 10% of whatever you pay for the downtime period.",
+                "You can upgrade or downgrade the existing plan as your business requirements change. It can be changed from the billing page.",
+                "SMS pricing is based on the destination. Our fair pricing ensures you will only be charged on the SMS sent.",
+                "AfterShip accepts all major credit and debit cards. You can modify existing payment methods from the billing page.",
+                "For Essentials and Pro plans, we charge $0.08/extra shipment. For the Premium plan we charge $0.12/extra shipment. Enterprise users can discuss their extra shipment fee with our sales team."
+            ]
+        }
+    },
+    {
+        "url": "https://ahrefs.com/pricing",
+        "company": "ahrefs",
+        "ai_pricing_model": "Tiered",
+        "category": "Analytics",
+        "data": {
+            "call_to_action": "Get access to these insights with an Ahrefs subscription and use them to improve your business.",
+            "tier_names": null,
+            "tier_prices": null,
+            "frequently_asked_questions": [
+                "Do you offer discounts or free trials?",
+                "What payment methods do you offer?",
+                "Are there any automatic charges?",
+                "Are there any contracts or setup fees?",
+                "How can I switch my plan?",
+                "Can I purchase only one tool?",
+                "How can I cancel my plan?",
+                "How can I switch to annual billing?",
+                "How do you charge for additional data and credits?",
+                "Is unused additional data carried over to the next month?",
+                "What is your refund policy?",
+                "How do Integrations work?"
+            ],
+            "frequently_asked_questions_answers": [
+                "We never run discounts. But if you're a website owner, you can sign up for Ahrefs Webmaster Tools to get free limited access to Site Explorer & Site Audit.",
+                "We accept Visa, Mastercard, American Express and UnionPay. For Enterprise plans, we also support wire transfers on request.",
+                "Yes. If not prepaid for, additional users are automatically charged on a pay-as-you-go basis. Also, if you enable additional pay-as-you-go credits and data, you\u2019ll be automatically charged when consumption exceeds your plan\u2019s limits.",
+                "There are no contracts or setup fees. You can switch your plan or cancel your Ahrefs subscription at any time.",
+                "Upgrade or downgrade your account anytime from your Account Settings. Upgrades take effect immediately, while downgrades and cancellations become effective at the end of your current billing period.",
+                "No, we don\u2019t offer tools separately. Ahrefs plans include access to all our tools.",
+                "Cancel your plan anytime from your Account Settings. When you cancel, you\u2019ll still be able to use your plan until the end of your subscription period. After your paid subscription ends, you\u2019ll be switched to a free Ahrefs Webmaster Tools plan with free limited access to Site Explorer & Site Audit.",
+                "Please contact our support team at support@ahrefs.com.",
+                "Once you enable additional pay-as-you-go credits and data, you\u2019ll be automatically charged when consumption exceeds your plan\u2019s limits. If you\u2019re on an annual plan, you can choose to prepay at a discounted rate.",
+                "Yes. PAYG purchases such as report credits, export rows, crawl credits, and API units, last for three billing months, including the current one. For example, if the usage reset date is set to the 20th October and you\u2019ve purchased PAYG credits on the 15th October, they will expire on the 20th December. Please note though that pre-paid limits are always used first.",
+                "Ahrefs does not issue refunds in general. For monthly subscriptions, you can request for a refund if you haven't used the service, but we may decline your request if we see any material activity in your account.",
+                "When you use the Integrations applications developed by our partners, you use rows from your monthly data rows limit."
+            ]
+        }
+    },
+    {
+        "url": "https://aircall.io/pricing/",
+        "company": "aircall",
+        "ai_pricing_model": "Addon",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Get free access",
+            "tier_names": [
+                "Essentials",
+                "Professional",
+                "Custom"
+            ],
+            "tier_prices": [
+                "$6",
+                "$6",
+                "$6"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://www.airtable.com/pricing",
+        "company": "airtable",
+        "ai_pricing_model": "Addon",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Try for free",
+            "tier_names": [
+                "Free",
+                "Team",
+                "Business",
+                "Enterprise Scale"
+            ],
+            "tier_prices": [
+                "Free",
+                "$20 per seat/month billed annually",
+                "$45 per seat/month billed annually",
+                "Custom pricing"
+            ],
+            "frequently_asked_questions": [
+                "How does Airtable's pricing work?",
+                "How does Airtable's Business and Enterprise Scale pricing work?",
+                "Is Airtable free to use?",
+                "How much does Airtable cost?",
+                "What are my payment options?",
+                "What happens when I hit my usage limits?",
+                "I am currently on Airtable\u2019s legacy Enterprise plan \u2014 where can I see a list of my current features?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Airtable plans are charged per seat. If you are on Airtable\u2019s Free plan, all users are free. If you are on a Team or Business plan, you will be charged for all users who have edit permissions for at least one base in the workspace. No charges will apply on a Team or Business plan for read-only collaborators, form submissions, or share links. Charges are prorated: users with edit permissions added partway through the month will only be charged for the days after they were added.",
+                "Airtable has two plans geared towards large company usage of Airtable: Business and Enterprise Scale. You can purchase Business either through the plan upgrades page in your workspace settings tab, or by contacting our sales team. To purchase Enterprise Scale, please contact sales. On either plan, you will be charged for all users with edit permissions for at least one base in your organization. As part of the Enterprise Scale plan, an organization has the ability to create unlimited org units, workspaces and bases within their organization. Charges are prorated: collaborators with edit permissions added partway through the billing cycle will only be charged for the months after they were added.",
+                "Airtable has multiple packages to help teams of all sizes orchestrate their work. Our Free plan is available to teams for no charge and provides the key building blocks to help you build applications. The Free plan is formulated for individual users, very small teams, or those with lightweight needs. Our paid plans offer additional power and scale for teams, departments, and large enterprises.",
+                "Our Free plan is available at no cost for users just getting started. For teams who like the features of our Free plan but need more capacity, our Team plan is available for $20/user/month when billed annually. Our Business and Enterprise Scale plans include the additional customization, data scale, flexibility, and administrative features that departments and enterprise organizations need. Business is available at $45/user/month when billed annually our Enterprise Scale plan pricing is custom, based on the organization\u2019s needs and scale with Airtable.",
+                "All payments are made via credit card for Team workspaces, and for Business if purchased through your workspace settings tab. For Business and Enterprise Scale accounts purchased through our sales team, we can issue an annual invoice with payment via PO and/or ACH, wire, or check.",
+                "If you reach (or are over) our record or attachment limits, you\u2019ll still be able to use your bases and we will never remove your data. We\u2019ll notify you of the overage and you will not be able to add more records or attachments until you upgrade to a new plan. For automations and API limits, you will be capped at the usage limit on your current plan.",
+                "For existing customers on Airtable\u2019s legacy Enterprise plan, no changes will go into effect until your renewal, at which point your account team will discuss your plan options with you. In the meantime, see this help article for a list of your current features and functionality."
+            ]
+        }
+    },
+    {
+        "url": "https://aiven.io/pricing?product=kafka",
+        "company": "aiven",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get started for free",
+            "tier_names": [
+                "Startup",
+                "Business",
+                "Premium"
+            ],
+            "tier_prices": [
+                "$290/month",
+                "$725/month",
+                "$2,800/month"
+            ],
+            "frequently_asked_questions": [
+                "What are the differences between plans?",
+                "Does Aiven offer a free plan?",
+                "What is the difference between the Aiven free plans and the Aiven free trial?",
+                "What\u2019s included in Aiven customer support?",
+                "Does Aiven offer any discounts?",
+                "Can I add more disk space to my plan?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The differences between plans include the number of dedicated VMs, CPU and RAM specifications, total cluster storage, and additional features.",
+                "Aiven does not offer a free plan, but there is a free trial available.",
+                "The Aiven free plans are limited in features compared to the free trial which offers more capabilities.",
+                "Aiven customer support includes email support with best-effort responses during the same or next business day.",
+                "Aiven offers discounts for annual payments and larger setups.",
+                "Yes, you can add more disk space to your plan."
+            ]
+        }
+    },
+    {
+        "url": "https://www.algolia.com/pricing/",
+        "company": "algolia",
+        "ai_pricing_model": "Tiered",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Build",
+                "Grow",
+                "Premium",
+                "Elevate"
+            ],
+            "tier_prices": [
+                "Free",
+                "Free/pay-as-you-go",
+                "Annual plan",
+                "Annual plan"
+            ],
+            "frequently_asked_questions": [
+                "What is a search request?",
+                "What is a record? How do you count records?",
+                "Is there a free plan?",
+                "Who is the Algolia Build plan intended for?",
+                "Why does the Algolia Build plan include more free records than Grow?",
+                "Who is the Algolia Grow plan intended for?",
+                "What is the free tier of Algolia Grow?",
+                "What is the difference between Grow & Premium?",
+                "What is the difference between Premium and Elevate?",
+                "Do you offer volume discounts?",
+                "Does Algolia require an annual contract?",
+                "Does Algolia offer special pricing for start-ups?"
+            ],
+            "frequently_asked_questions_answers": [
+                "A search request is a group of one or more search operations sent in a single exchange. Search operations are triggered when a search is performed. In past Algolia plans, a single search would be counted per active search index. With the current pricing, this would count as one search request.",
+                "A record is an item or object that contains data that someone would search for. The total number of records is equal to the sum of records in all indices. Each pre-sort of records creates a copy, increasing the total record count.",
+                "Yes! Algolia Build offers 1 Million Records for free, and 10,000 Requests every month for both Search and Recommend products.",
+                "The Algolia Build plan is your Search & Discovery playground to try Algolia\u2019s full product offering.",
+                "The Algolia Build plan permits up to 1 Million records when you\u2019re in development, with API rate limiting and a limited number of Search Requests per month.",
+                "The Algolia Grow plan is intended for projects in production, and data which is being used by end users.",
+                "The Algolia Grow plan includes $51 worth of free usage every month.",
+                "Premium includes AI features, expanded global hosting options, Merchandising Studio and access to professional services and add-ons.",
+                "Elevate includes Algolia NeuralSearch, processing both vector and keyword results in parallel.",
+                "Yes. The Premium and Elevate plans include volume discounts.",
+                "Grow is a pay-as-you-go plan, billed monthly with no contract required. Premium and Elevate require an annual contract.",
+                "Learn more about the Algolia Startup program and our free offer for open source and non-profit projects."
+            ]
+        }
+    },
+    {
+        "url": "https://amplitude.com/pricing",
+        "company": "amplitude",
+        "ai_pricing_model": "Tiered",
+        "category": "Analytics",
+        "data": {
+            "call_to_action": "Start for free",
+            "tier_names": [
+                "Starter",
+                "Plus",
+                "Growth",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free",
+                "From $49/mo",
+                "Contact sales",
+                "Contact sales"
+            ],
+            "frequently_asked_questions": [
+                "What is an MTU?",
+                "How can I estimate MTUs?",
+                "How do I get access to Session Replay, CDP and Experimentation?",
+                "Do you offer special pricing or discounts for startups?"
+            ],
+            "frequently_asked_questions_answers": [
+                "An MTU (monthly tracked user) is a unique user with one or more events in an organization within a calendar month. It can be either an anonymous user (which Amplitude will track via device ID) or an identified user (tracked by user ID).",
+                "MTU count is similar to the Monthly Active Users (MAU) count on your website or applications, provided they account for anonymous visitors identically. For more information on how to estimate and track MTUs, please refer to our MTU Help Center article here.",
+                "Amplitude offers four plans that put the full power of our platform into your teams\u2019 hands. Our Starter and Plus plans are meant for small teams and come packed with Analytics, feature flags, Session Replay, and CDP. Our Growth and Enterprise plans unlock the full power of our platform, including experimentation and advanced audience management, to help you scale with deeper insights, automation, and scale.",
+                "Yes! The Amplitude Startup Scholarship provides one year of our paid Growth plan features for free. Learn more and apply here."
+            ]
+        }
+    },
+    {
+        "url": "https://www.anaconda.com/pricing/organizations",
+        "company": "anaconda",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Start for Free",
+            "tier_names": [
+                "Free",
+                "Starter",
+                "Business",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0",
+                "$15 Per user Per month",
+                "Starting at $50 Per user Per month",
+                "Custom"
+            ],
+            "frequently_asked_questions": [
+                "How do I get started with Anaconda Business or Anaconda Enterprise?",
+                "How do I get started with Free or Starter?",
+                "What is included with Anaconda Free plan?",
+                "How should I choose between Anaconda Cloud-hosted or On-prem offerings?",
+                "How should I choose between Anaconda Business and Anaconda Enterprise plans?",
+                "What is the difference between Cloud and On-Prem offerings in Business?",
+                "What implementations are available on-prem from Anaconda?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Create your account and start centralizing your software supply chain right away with access to our professional repository and tokenized user access controls. Users in your organization gain access to our cloud-hosted Anaconda Notebooks\u2014a fully loaded, configured, and ready-to-code interactive development environment that runs on any browser and any system. Also check out Anaconda Learning, where you can access on-demand training to upskill in data science, Python, data visualization, machine learning, and more.",
+                "Simply create your free Anaconda Cloud account. Get started coding immediately in Notebooks, a fully loaded, configured, and ready-to-code interactive development environment. It runs on any browser and any system.",
+                "Anaconda Free plan gives you access to our cloud-hosted and locally distributed Python packages. The cloud distribution is preconfigured in Notebooks, where you get 100MB of storage and access to high compute for your data science and machine learning projects. Not sure how to get started? Check out Anaconda\u2019s free learning courses.",
+                "Anaconda cloud-hosted offerings are made available through Anaconda\u2019s multi-tenant cloud. This option is best for organizations that want to minimize implementation and maintenance burden, and do not require on-premises (on-prem) installation or self-hosting.",
+                "If you\u2019re part of a team at an organization that\u2019s using Python and cloud infrastructure, has advanced security compliance requirements, and needs governance (e.g., user access control) capabilities, our Business plan is likely a good choice. If you need collaboration capabilities for a team or many teams to deploy secure Python projects within your organization, contact us to learn about our Enterprise offerings.",
+                "Both plans enable governance and security compliance for your users through our Package Security Manager. The primary difference is that our on-prem plan comes with a dedicated artifact repository that can be installed on your infrastructure/in your private cloud. Alternatively, our cloud plan does not require any installation or implementation, since all packages and security capabilities are hosted in our multi-tenant cloud.",
+                "Our on-prem plans have several implementations available: on premises, private cloud, air gapped, and managed service (single-tenant cloud)."
+            ]
+        }
+    },
+    {
+        "url": "https://anyword.com/pricing/",
+        "company": "anyword",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Start for free",
+            "tier_names": [
+                "Starter",
+                "Data-Driven",
+                "Business",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$49/month",
+                "$99/month",
+                "$499/month",
+                "Custom pricing"
+            ],
+            "frequently_asked_questions": [
+                "How does Anyword work?",
+                "What's included in Anyword's plans?",
+                "How many users can join my plan?",
+                "Can I change my subscription plan at any time?",
+                "What does unlimited words mean?",
+                "Do you offer a free trial?",
+                "Can I cancel my subscription at anytime?",
+                "Are there discounts for non-profit organizations or students?",
+                "What if I have questions or issues with my subscription?",
+                "What are performance data rows?",
+                "What are performance predictions?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Anyword uses AI to generate marketing content based on performance data.",
+                "Plans include various features such as performance predictions, data rows, and seats.",
+                "The number of users depends on the plan selected.",
+                "Yes, you can change your subscription plan at any time.",
+                "Unlimited words means you can generate as much content as you need without limits.",
+                "Yes, a free trial is available for new users.",
+                "Yes, you can cancel your subscription at any time.",
+                "Discounts may be available for non-profits or students; please inquire for details.",
+                "For questions or issues, you can contact support.",
+                "Performance data rows refer to the data points used to analyze content performance.",
+                "Performance predictions are forecasts of how well content will perform based on historical data."
+            ]
+        }
+    },
+    {
+        "url": "https://appfollow.io/pricing",
+        "company": "appfollow",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Start for free",
+            "tier_names": [
+                "Free",
+                "Essential",
+                "Team",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0",
+                "$139 per month",
+                "$459 per month",
+                "Custom price"
+            ],
+            "frequently_asked_questions": [
+                "What features are included in the Free plan?",
+                "How can I upgrade my plan?",
+                "Is there a trial period for the paid plans?",
+                "What payment methods do you accept?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The Free plan includes fundamental insights, rating & reviews analysis, AI summary, manual tags, entry-level reply-to-reviews, ASO tools, and Zendesk & Slack integrations.",
+                "You can upgrade your plan from your account settings at any time.",
+                "Yes, we offer a 14-day trial period for the paid plans.",
+                "We accept credit cards, PayPal, and bank transfers."
+            ]
+        }
+    },
+    {
+        "url": "https://asana.com/pricing",
+        "company": "asana",
+        "ai_pricing_model": "Usage",
+        "category": "Project Management & Maintenance",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Personal",
+                "Starter",
+                "Advanced",
+                "Enterprise",
+                "Enterprise+"
+            ],
+            "tier_prices": [
+                "$0",
+                "$10.99 per user, per month billed annually; $13.49 billed monthly",
+                "$24.99 per user, per month billed annually; $30.49 billed monthly",
+                "Contact sales for pricing",
+                "Contact sales for pricing"
+            ],
+            "frequently_asked_questions": [
+                "How does Asana's pricing work?",
+                "We need to change the number of people in our team. How will that work?",
+                "How secure is Asana?",
+                "Do you offer academic pricing?",
+                "Should I upgrade my organization or my team?",
+                "Will I be charged sales tax?",
+                "Is there an on-premises version of Asana?",
+                "How does Asana protect my data?",
+                "How does Asana store data?",
+                "Will I be charged VAT/GST?",
+                "Does Asana offer a discount for nonprofits?",
+                "How do I cancel my Asana subscription or trial?",
+                "What is your refund policy?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The Personal version of Asana is available for teams of up to 10 people. Asana Starter costs $10.99 per user per month when billed annually and $13.49 per user per month when billed monthly. The price of Asana Advanced is $24.99 per user per month when billed annually and $30.49 when billed monthly. We do not offer Asana subscriptions for 1-user plans. We do offer tiered plans for smaller teams, from 2-user to 5-user plans.",
+                "You'll be able to add or remove teammates at any time, even before changing your subscription. Once you have updated the people in your team, we ask that you correct your subscription to match your current usage (we'll remind you if you are over your seat limit). Our subscription offerings increase in increments of 5 users when total users are less than or equal to 30; increments of 10 when total users are between 30 and 100; increments of 25 when total users are between 100 and 500; and increments of 50 when total users are more than 500. When updating monthly subscriptions, all modifications will be implemented at the next billing cycle. For annual subscriptions, changes made within 30 days of purchase will take effect immediately, and a prorated charge or credit will be applied to your Asana account.",
+                "Asana is committed to protecting customer data. We build our platform using best practices for highly available, scalable, and secure cloud applications. We regularly monitor and assess our program to ensure that it meets or exceeds compliance and regulatory requirements. Please visit our Trust Center for more information.",
+                "We\u2019re happy to work with student groups using Asana. Contact us.",
+                "If you need administrators and premium package features for all teams, upgrade your entire organization. If you don't need administrators or premium features for all teams, but want to add more guests, set per-project permissions, or hide a team, you can upgrade an individual team.",
+                "Yes. We will apply state and local sales tax based on your billing address to your total charge.",
+                "We are passionate about the web and do not plan to offer an internally hosted version of Asana.",
+                "Asana is committed to protecting and honoring your global privacy rights as well as securing the data you provide to us through the use of our products. For more information and details about our privacy and security programs, please visit our Trust Center.",
+                "The Asana subscription service is hosted on dedicated servers within secure, industry-leading data centers provided by Amazon Web Services. These data centers have achieved and maintain SOC 2 compliance and provide 24-hour physical security including biometric access controls and continuous surveillance.",
+                "Asana may be required to charge VAT, GST, and other taxes on your subscription in accordance with local laws and regulations. Some jurisdictions do not require VAT/GST to be charged if the purchaser is registered for VAT/GST. If you are registered for VAT or GST purposes, please add your VAT/GST registration number during the checkout process to have your exemption processed.",
+                "Asana is happy to offer eligible nonprofit organizations a discount on an Asana Starter or Asana Advanced annual plan. You can learn about the Asana nonprofit discount here.",
+                "To cancel a paid plan, go to the billing tab in your admin console and select Cancel plan. To find your admin console, log in to the Asana account you wish to cancel and click your profile photo in the top bar.",
+                "We do not offer refunds. If you cancel your plan before the next renewal cycle, you will retain access to paid features until the end of your subscription period. When your subscription expires, you will lose access to paid features and all data associated with those features."
+            ]
+        }
+    },
+    {
+        "url": "https://www.assemblyai.com/pricing",
+        "company": "assemblyai",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Start building for free",
+            "tier_names": [
+                "Free",
+                "Pay as you go",
+                "Custom"
+            ],
+            "tier_prices": [
+                "$0.12/hr",
+                "$0.37/hr",
+                "Lower rates based on volume"
+            ],
+            "frequently_asked_questions": [
+                "What are the differences between Speech-to-Text tiers?",
+                "Can I sign up for free?",
+                "Do you offer volume discounts?",
+                "How fast does it take for audio and video files to process?",
+                "How does billing work?",
+                "How is multichannel billed?",
+                "How can I talk to someone?",
+                "What languages do you support?",
+                "What is a token?"
+            ],
+            "frequently_asked_questions_answers": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "url": "https://www.atlassian.com/software/confluence/pricing",
+        "company": "atlassian",
+        "ai_pricing_model": "Tiered",
+        "category": "Project Management & Maintenance",
+        "data": {
+            "call_to_action": "Get it free",
+            "tier_names": [
+                "Free",
+                "Standard",
+                "Premium",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free for 30 days",
+                "Annual term license + maintenance",
+                "Contact sales for Enterprise pricing"
+            ],
+            "frequently_asked_questions": [
+                "How to calculate your subscription cost?",
+                "About users & how you're billed for them?",
+                "Payment options?",
+                "Free trial period, refunds, & subscription plan details?",
+                "Choosing Premium Plan over Standard?",
+                "Cloud and self-managed options?",
+                "Atlassian Guard and Premium plan?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Use our pricing calculator at the top of this page to determine the price of your subscription. Simply enter how many users you have and choose a billing cycle (annual or monthly).",
+                "A user is someone who can log in to one of your Confluence sites and who exists in User Management. You can add and remove users as your team changes. For monthly subscriptions, we'll charge you for the following month's subscription based on the exact number of Confluence users you have. For annual subscriptions, we'll charge you for the tier that most closely matches your user count.",
+                "You can pay monthly subscriptions by credit card (MasterCard, Visa, or American Express) or PayPal. For annual subscriptions, you can pay by credit card, bank transfer, or check.",
+                "Our Free plan lets you try Confluence for up to 10 users with 2GB of storage and Community Support. If you'd like to add more than 10 users or get access to more support and storage, you can sign up for a 7-day free trial of our Standard or Premium plan.",
+                "For organizations who need confidence in their ability to scale, the Premium plan offers 24/7 Premium Support with 1-hour response times for critical issues, unlimited storage, and a 99.9% uptime SLA financially backed by service credits.",
+                "We've ended sales for new server licenses and will end support for server on Feb 15, 2024, PT. We\u2019re continuing investment in Data Center with several key improvements.",
+                "Confluence Cloud Premium lets teams confidently scale with automation, a 99.9% uptime SLA, unlimited storage, Premium Support, and more features coming soon."
+            ]
+        }
+    },
+    {
+        "url": "https://www.atlassian.com/software/jira/pricing",
+        "company": "atlassian.jira",
+        "ai_pricing_model": "Tiered",
+        "category": "Project Management & Maintenance",
+        "data": {
+            "call_to_action": "Get it free",
+            "tier_names": [
+                "Free",
+                "Standard",
+                "Premium",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0",
+                "$7.53 per user / month",
+                "$13.53 per user / month",
+                "Contact sales"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://avoma.com/pricing",
+        "company": "avoma",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Start a free trial",
+            "tier_names": [
+                "AI Meeting Assistant",
+                "Conversation Intelligence",
+                "Revenue Intelligence",
+                "Lead Routing",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$24/user/month",
+                "$69/user/month",
+                "$99/user/month",
+                "$19/user/month",
+                "Custom Needs"
+            ],
+            "frequently_asked_questions": [
+                "What is a recording license?",
+                "Do I need to enter my payment details to sign up?",
+                "What functionality do I get in the trial period?",
+                "Will we be charged when our trial is over?",
+                "What happens after my trial is over?",
+                "Is there any setup fee or minimum platform fee?",
+                "What is a listener or collaborator?",
+                "Can I purchase different plan licenses for different team members?",
+                "Can we invite more members during a trial?",
+                "What if we need a longer trial?",
+                "How does adding and removing licenses work?",
+                "Do you offer any discount?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Any user who wants to record and transcribe their meetings and calls. You only need to purchase licenses for users who want to record and transcribe their meetings and calls.",
+                "No. You can sign up and use Avoma for 14 days without entering your payment details. At the end of your trial, you can decide if you want to purchase any license and then enter your payment details.",
+                "During 14-day free trial period, you get access to Avoma's Business plan functionality without any restrictions.",
+                "No. We don't ask for your credit card upfront, so you'll only be charged when you decide you\u2019re ready.",
+                "After your trial expires, we'll automatically change your Subscription from the Business plan to our Free plan.",
+                "No. There are no setup fees, no minimum platform fees, and no ongoing fees to provide customer support.",
+                "Any user who wants to listen to recordings or comment on other team member's meetings is considered as a listener or collaborator. There is no charge for collaborators and they use Avoma for free.",
+                "Yes. You can purchase different subscription plan licenses and assign those appropriately to different users in the organization as per their needs.",
+                "Yes, you can invite as many team members as you want to join your trial.",
+                "We\u2019re happy to give you some more time. Just email us at help@avoma.com and we'll extend your trial.",
+                "If you add anything to or upgrade your plan, the changes will be pro-rated for the remainder of your billing cycle and billed immediately. In addition, your new subscription total will be reflected in your next bill. If you remove anything or downgrade your plan, the change will only take effect at the next billing cycle.",
+                "Yes, we offer up to 20% discount when you choose Yearly billing and pay upfront."
+            ]
+        }
+    },
+    {
+        "url": "https://aws.amazon.com/kendra/pricing",
+        "company": "aws.kendra",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get started for free",
+            "tier_names": [
+                "GenAI Enterprise Edition",
+                "Basic Enterprise Edition",
+                "Basic Developer Edition"
+            ],
+            "tier_prices": [
+                "$0.32 per hour",
+                "$1.4 per hour",
+                "$1.125 per hour"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://blameless.com/pricing",
+        "company": "blameless",
+        "ai_pricing_model": "Tiered",
+        "category": "Cybersecurity & IT Management",
+        "data": {
+            "call_to_action": "Get started FOR free",
+            "tier_names": [
+                "Essentials",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$20",
+                "$30"
+            ],
+            "frequently_asked_questions": [
+                "What is the definition of a user (seat)?",
+                "Can an enterprise customer also start with a free trial?",
+                "Are all contracts annual?",
+                "What support SLAs do you provide?",
+                "Can you meet my security compliance requirements?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Every user in the Blameless platform has the same level of access to all features.",
+                "Yes, absolutely. Our Blameless experts will set up a free trial for your enterprise solution. We\u2019ll provide additional guidance on how to set up your trial experience based on your specific workflows and runbooks.",
+                "Yes, every contract is annual. For Enterprise plans, we offer a discounted rate for multi-year contracts.",
+                "For Essentials users, our support team guarantees a response within one business day. We operate within the following hours: Monday through Friday, 8:00 am to 6:00 pm UTC\u221208:00. For Enterprise plan customers, our support team guarantees a response within one hour on business days. Total support coverage is available to Enterprise customers for an additional fee.",
+                "We regularly work with customers to complete security questionnaires and can answer any questions your security team may have. We are SOC2 and ISO certified."
+            ]
+        }
+    },
+    {
+        "url": "https://botpress.com/pricing",
+        "company": "botpress",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Start for free & customize your plan",
+            "tier_names": [
+                "Pay-as-you-go",
+                "Team",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0/month",
+                "$495/month",
+                "Custom"
+            ],
+            "frequently_asked_questions": [
+                "Which plan is right for me?",
+                "What is considered an incoming message & event?",
+                "What is an AI Credit?",
+                "What actions consume AI tokens?",
+                "Why are the prices listed on my dashboard different?",
+                "What actions consume vector DB storage?",
+                "What happens after I reach my incoming messages & events limit?",
+                "What happens after my monthly $5 AI Spend credit is completely consumed?",
+                "When do monthly limits reset?",
+                "In what currency is your pricing listed?",
+                "Is there a way to forecast my AI Spend?",
+                "Where can I find the price of third party tokens and AI Spend?",
+                "Is there a monthly limit to my AI Spend?",
+                "Can I white label Botpress?",
+                "What is Botpress for Good?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Choosing the right plan depends on your individual or business needs: Pay-as-you-go is perfect for hobbyists or solo developers. Team Plan is ideal for teams looking to enhance their chatbot building. Enterprise Plan is for organizations needing robust solutions.",
+                "An incoming message & event is any action that triggers bot activation. Examples include a user saying 'Hello' to a bot or a proactive trigger that opens the bot.",
+                "Every month, we credit $5 USD to your Botpress workspace for AI token consumption.",
+                "Any action that requires AI capabilities will consume AI tokens, such as knowledge base ingestion and answering.",
+                "Prices may differ due to regular adjustments in service provision and availability.",
+                "Actions that consume vector DB storage include making tables searchable or using documents as data sources.",
+                "After reaching the limit, all bots will stop responding until the limit resets or a limit increase is purchased.",
+                "After the $5 AI Spend credit is consumed, you must increase your AI Spend limit to continue AI actions.",
+                "Monthly limits reset on the first day of every month at 05:00am GMT.",
+                "All pricing is in US Dollars (USD).",
+                "Currently, there is no reliable way to forecast AI Spend.",
+                "Prices for third-party tokens can be found on the respective model provider's pricing page.",
+                "AI Spend has monthly limits: $100 for Pay-as-you-go, $1,000 for Team, and custom for Enterprise.",
+                "White labeling is available for Team and Enterprise customers.",
+                "Botpress for Good is our commitment to making Botpress more affordable for nonprofits and educational institutions."
+            ]
+        }
+    },
+    {
+        "url": "https://www.box.com/pricing/individual",
+        "company": "box",
+        "ai_pricing_model": "Usage",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Sign Up",
+            "tier_names": [
+                "Individual",
+                "Personal Pro",
+                "Business Starter",
+                "Business",
+                "Business Plus",
+                "Enterprise",
+                "Enterprise Plus"
+            ],
+            "tier_prices": [
+                "Free",
+                "$14 per month",
+                "$7 per user/month",
+                "$20 per user/month",
+                "$33 per user/month",
+                "$47 per user/month",
+                "$50 per user/month"
+            ],
+            "frequently_asked_questions": [
+                "How much data can 10GB hold?",
+                "Can I share my files and folders with someone who doesn\u2019t have a Box account?",
+                "Can I buy more storage space on my plan?",
+                "Can I access my Box account via mobile?",
+                "Are there any limits on how much bandwidth our team can use?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The average user stores a mix of digital media (photos and videos) and documents. 10GB gives you the option of storing roughly: 2,000 songs or pictures, More than 50,000 documents.",
+                "Yes! You can create an external link that can be shared with anyone, even people without a Box account. (Though while you\u2019re at it, why not encourage them to start a free Box account?! That way you can collaborate with them and co-edit the document.)",
+                "If you have an Individual plan, you can free up space by deleting unused files and folders, or you can choose an upgraded plan (with unlimited storage available) that meets your needs.",
+                "Absolutely! Download the Box Mobile App to access your content anywhere, anytime.",
+                "Yes. To help prevent excessive usage by any one user, Box may limit user bandwidth if it exceeds the thresholds described below: Download Bandwidth for Shared Links: Files downloaded from an open access shared link (applies to the owner of the file) - 10GB per user per month for Individual plans - 2TB per user per month for Box Business plans. Download/upload Ingress/Egress Bandwidth: Files uploaded and downloaded (applies to the user who uploads and/or downloads the file) - 1TB per user per month for both Box Business and Individual plans."
+            ]
+        }
+    },
+    {
+        "url": "https://breezy.hr/pricing",
+        "company": "breezy",
+        "ai_pricing_model": "Addon",
+        "category": "Human Resources & Legal",
+        "data": {
+            "call_to_action": "Check It Out",
+            "tier_names": [
+                "Bootstrap",
+                "Startup",
+                "Growth",
+                "Business"
+            ],
+            "tier_prices": [
+                "Free!",
+                "$157/mo",
+                "$189/mo",
+                "$273/mo",
+                "$329/mo",
+                "$439/mo",
+                "$529/mo"
+            ],
+            "frequently_asked_questions": [
+                "So what's a Candidate Pool?",
+                "What's an active Position or Candidate Pool?",
+                "How many positions are included with the Bootstrap plan?",
+                "How long can I access my candidates with the Bootstrap plan?",
+                "Where have you been all my life?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Candidate pools help you to manage, organize & nurture relationships with candidates who are not necessarily affiliated with a specific role. They're a simple way to manage the full candidate funnel, while making sure you always have great talent in the pipeline for future roles.",
+                "Essentially, \u201cactive status\u201d means candidates are able to apply or be added. For a position, being active also means it can be listed on your public Career Portal and can be distributed to third-party job boards. For both candidate pools and positions, being active allows you to communicate with candidates \u2014 exchanging emails, scheduling interviews, etc.",
+                "The Bootstrap plan includes one active position or candidate pool at a time. You can create as many as you like, but will need to close or archive one before activating another.",
+                "The Bootstrap plan includes unlimited access to recent candidates (added within the last 30 days). You can add and access as many candidates as you like, but will need to upgrade to a paid plan to access candidates older than 30 days.",
+                "Let's not talk about the past. We're here now. Let's make the most of it. \ud83d\ude0d"
+            ]
+        }
+    },
+    {
+        "url": "https://buffer.com/pricing",
+        "company": "buffer",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Get started now",
+            "tier_names": [
+                "Free",
+                "Essentials",
+                "Team"
+            ],
+            "tier_prices": [
+                "Free",
+                "$5/month",
+                "$10/month"
+            ],
+            "frequently_asked_questions": [
+                "What features are supported for each specific channel?",
+                "What are the billing options for Buffer\u2019s paid plans?",
+                "What payment methods does Buffer accept?",
+                "Does Buffer have a free trial?",
+                "What happens at the end of the 14-day trial?",
+                "Can I keep my three free channels if I upgrade from Buffer\u2019s Free plan to a paid plan?",
+                "What is the scheduled post limit for each plan?",
+                "Does Buffer offer a discount to non-profit organizations and charities?",
+                "Does Buffer charge Value-Added Tax (VAT) to customers?",
+                "When were the prices of Buffer\u2019s plans last updated?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The table below lists the core features that are available for each channel and profile type.",
+                "You can choose to pay for your plan on a monthly or annual basis. By selecting annual billing, you\u2019ll receive a 20% discount. You can switch between monthly and annual billing at any time. If you switch billing frequencies, any necessary prorations or refunds will be automatically applied.",
+                "We accept credit and debit card payments from Visa, Mastercard, American Express, JCB, Discover, and Diners Club. Unfortunately, we cannot accept PayPal, checks, or bank transfers at this time.",
+                "Yes, we offer a 14-day free trial for our Essentials and Team plans. During the trial, you can upgrade to a paid plan or switch to our Free plan at any time. You can also start using Buffer for free right away by signing up for our Free plan without needing a trial period.",
+                "If you decide to continue with a subscription after your trial, simply enter your payment details under the 'Billing Method' section in your account settings. If you don\u2019t wish to upgrade and haven\u2019t entered your payment details, your account will automatically be downgraded to the Free plan.",
+                "If you decide to upgrade to a paid plan, you will pay for each channel \u2014 including any channels you had while on the Free plan. This is because paid plans offer unlimited usage and advanced features for all channels you\u2019ve connected to Buffer.",
+                "The Free plan allows 10 scheduled posts per channel. Once a post is published, the slot becomes available again, up to the 10-post maximum per channel. For the Essentials and Team plans, you have unlimited scheduled posts per channel. Unlimited scheduling is subject to our fair use policy, which caps usage to 2000 posts per channel.",
+                "Yes, Buffer proudly offers a 50% discount on paid plans for nonprofit and charity organizations.",
+                "Buffer applies the local standard Value-Added Tax (VAT) rate for B2C customer located in the United Kingdom. B2B customers may be eligible for VAT exclusion through reverse charge. You can enter your VAT number to have VAT excluded from your invoice.",
+                "Our pricing was last updated in August 2021."
+            ]
+        }
+    },
+    {
+        "url": "https://www.canva.com/pricing/",
+        "company": "canva",
+        "ai_pricing_model": "Tiered",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Canva Free",
+                "Canva Pro",
+                "Canva Teams",
+                "Canva Enterprise"
+            ],
+            "tier_prices": [
+                "US$0/year for one person",
+                "US$120/year for one person",
+                "US$100/year per person (Minimum 3 people: US$300/year)",
+                "Contact Sales"
+            ],
+            "frequently_asked_questions": [
+                "Can I use Canva for free?",
+                "What are the details of the 50% off Pro offer?",
+                "Is Canva Pro available for teams?",
+                "What is the difference between Canva Teams and Canva Pro?",
+                "How long is my free Canva Pro or Canva Teams trial?",
+                "Can I invite other team members during my trial?",
+                "What is the difference between Canva Teams and Canva Enterprise?",
+                "How can I request a trial of Canva Enterprise?",
+                "What if I work for a nonprofit?",
+                "What if I am a student or teacher?",
+                "What payment methods can I use?",
+                "How does the billing work?",
+                "If I add a team member, will they be able to see all my designs?",
+                "How can I contact the sales team?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Canva Free is available to anyone. However, if you want to use Canva for work or a side hustle, you can upgrade to Canva Pro to unlock premium features, such as unlimited templates and Brand Kits. And if you need to collaborate with colleagues? You might be interested in a Canva Teams subscription, which is ideal for small to medium-sized businesses. With Canva Teams, you'll enjoy all the premium features of a Canva Pro plan, with more ways to collaborate and communicate as a team \u2013 including efficient approval processes, real-time communication, and centralized asset management. Want to see for yourself? You can start a free Canva Pro or Canva Teams trial for 30 days.",
+                "Enjoy 50% off Canva Pro monthly subscriptions for the first 3 months. This limited-time offer is only available until December 27, 2024 to eligible users in select countries, based on app or web access. The 50% discount will be applied automatically at checkout, and you'll be billed at the discounted rate each month for the first 3 months. You can cancel your subscription at any time during the 3-month period after activating the offer. Terms and conditions apply.",
+                "Canva Pro is the best subscription for individual entrepreneurs and professionals looking to create visually stand-out content with ease. Only one person can use a Canva Pro account. If you want to collaborate with one or more colleagues, then you'll need to sign up for Canva Teams.",
+                "Both Canva Pro and Canva Teams subscriptions unlock Canva's premium features and tools. The difference comes down to who\u2019s using it. Canva Pro is the perfect plan for individuals who want save time and design with full creative confidence. You can collaborate on projects and share your work with others, but if you're working on a small team, we'd recommend Canva Teams. Canva Teams is designed to meet the needs of teams in small or medium-sized companies. You get access to a joint workspace where team members can work together, share designs, and give feedback in real time.",
+                "Depending on which subscription works best for you or your business, you can start a free 30-day trial of Canva Pro or Canva Teams. To activate your Canva Pro or Canva Teams account, you'll need to enter your credit card details, or your preferred payment option. You can cancel any time during your trial and won't be charged.",
+                "If you're using Canva Teams, you can invite other team members to join your team. You won't be billed at all during your trial period. However, if you're using Canva Pro, you won't be able to add new team members as this plan is designed for individuals. To add new team members, you'll need to upgrade to a Canva Teams plan.",
+                "Canva Teams is best suited for individual teams in small to mid-size businesses that don\u2019t require complex team management and controls. Canva Enterprise is a great fit for multiple and large single teams of more than 100 people, mainly in mid-to-large organizations and with complex requirements around security, administration, and team management. While both plans unlock premium content and features, Canva Enterprise can level up your company's visual communication and asset management with advanced brand controls, custom integrations, advanced security features, and admin controls.",
+                "While we don\u2019t offer a free trial for Canva Enterprise, you can get in touch with our sales team to see a demo of Canva Enterprise and discuss your specific needs.",
+                "Nonprofits can get a free Canva Teams subscription for one team of up to 50 users. Additional seats are 50% off.",
+                "Canva for Education is available for K-12 (primary and secondary) educators, their students, and qualified school districts and institutions. Check out our full eligibility guidelines. Canva for Campus empowers higher education students, teaching staff, plus campus administrators and marketers to communicate visually and collaborate seamlessly with Canva\u2019s suite of tools.",
+                "We accept Paypal and credit cards by major providers such as Visa, Mastercard, and American Express. We also support other online payment systems in some countries.",
+                "Canva Teams operates on a pay-as-you grow model. This means you only pay for the team members who accept your invitation. There's no immediate charge; billing is adjusted monthly, or quarterly if you're on an annual subscription. If you're on a monthly billing cycle, you can add new people at any time. You'll only be charged for the active people you have on your team at the next monthly renewal. For those on annual billing cycles, we have four pay-as-you grow check-ins throughout the year.",
+                "Your designs are always private, unless you explicitly choose to share them or save them as templates for your team.",
+                "For enquiries about choosing the right plan or creating a personalized package for your organization, please reach out to our Sales team via the Contact Sales form."
+            ]
+        }
+    },
+    {
+        "url": "https://caspio.com/pricing",
+        "company": "caspio",
+        "ai_pricing_model": "Usage",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Get a Demo",
+            "tier_names": [
+                "Starter",
+                "Professional",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$90/mo (billed monthly at $1,080/yr)",
+                "$300/mo (billed monthly at $5,670/yr)",
+                "$2,025/mo (billed monthly at $24,300/yr)"
+            ],
+            "frequently_asked_questions": [
+                "Does Caspio really offer unlimited app users?",
+                "How many people can build apps in my account?",
+                "What are DataPages/DataParts and how many do I need?",
+                "Can I customize or change my plan?",
+                "What happens if I exceed the usage limits in my plan?",
+                "Can Caspio build applications for me?",
+                "Does Caspio offer any discounts?",
+                "Does Caspio offer an Academic program?",
+                "What billing options are available?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Absolutely! Caspio supports any number of users accessing internal or external apps, making it the ideal platform to power applications across your entire workforce and customer base. Each Caspio plan includes a specific number of data records and your users contribute toward this allocation. At any time, you can easily add thousands of additional records for a nominal fee. With Caspio, you have the freedom to scale your applications without arbitrary limitations or per-seat fees.",
+                "As many as you like! With Caspio, there\u2019s no limit to the number of app developers you can invite to your account. Caspio provides fine-grain permission controls to manage user access to various objects in your account.",
+                "DataPages/DataParts are customizable forms, reports and interfaces that allow users to interact with your data. The number of DataPages/DataParts you need depends on the complexity and functionality of your app.",
+                "Yes, you can update your plan with the features and add-on resources you need, such as additional data records, email/SMS notifications, file storage, etc. You may also upgrade your plan at any time or downgrade/cancel at the end of your term. Visit the Account Settings section inside your account to customize your plan.",
+                "To help you optimize your account resources and take advantage of our most cost-effective pricing, we\u2019ll send you an email before you reach your limits, so you can decide to add more resources at a lower rate or pay on-demand.",
+                "Yes, we have an in-house Professional Services team specializing in advanced app development, customization, integration and maintenance. Additionally, our extensive partner network includes experienced Caspio developers across different regions and industries. We invite you to schedule a free consultation to explore the possibilities.",
+                "Caspio offers a 10% discount for annual payments. We also provide a 10% discount for nonprofits, NGOs and companies in qualifying countries. See if you qualify.",
+                "Yes, Caspio is available at no cost for educational institutions to teach database design and low-code application development in the classroom.",
+                "We accept Visa, MasterCard, American Express and Discover credit cards, as well as GSA SmartPay cards. For annual payments, we also accept bank transfer and PayPal. Contact Caspio Billing to arrange for non-credit card payments."
+            ]
+        }
+    },
+    {
+        "url": "https://clarifai.com/pricing",
+        "company": "clarifai",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Start for free",
+            "tier_names": [
+                "Community",
+                "Essential",
+                "Professional",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0 /mo",
+                "$30 /mo",
+                "$300 /mo",
+                "Contact us"
+            ],
+            "frequently_asked_questions": [
+                "How does pricing work?",
+                "What are the maximum operations and inputs stored per package?",
+                "What if I need to cancel my subscription?",
+                "How do I know whether I need deep training or context / custom model training?",
+                "Do you have custom pricing plans for enterprise customers?",
+                "Do you offer Professional Services? How much do you charge?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The Essential plan includes a monthly credit of $30 worth of inputs and operations, and the Professional plan includes a monthly credit of $300 worth of inputs and operations. Since there are different prices for ops and inputs, there are additional charges for any inputs or operations beyond the package price.",
+                "The Essential plan lets users do a max of 300k operations each month. The Professional plan lets users do a max of 1M operations each month. Similarly, the Essential plan lets users store a max of 300k inputs, and the Professional plan lets users store a max of 1M inputs.",
+                "You can cancel your subscription any time by downgrading to the community plan. Once you downgrade, you are allowed inputs and operations will be bound by our community plan.",
+                "Clarifai's custom model training lets you take advantage of our pre-trained models, which are trained on millions of inputs. This lets you train high-performing models that leverage the understanding from our pre-trained models using a very small number of inputs.",
+                "Custom plans are available and scale as your business grows.",
+                "Clarifai\u2019s team of experts are here to help you every step of the way as you integrate computer vision AI into your technology stack."
+            ]
+        }
+    },
+    {
+        "url": "https://cledara.com/pricing",
+        "company": "cledara",
+        "ai_pricing_model": "Tiered",
+        "category": "Financial & Accounting",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Get started",
+                "Basic",
+                "Premium",
+                "Pro"
+            ],
+            "tier_prices": [
+                "Free",
+                "\u00a375/mo",
+                "\u00a3200/mo",
+                "from \u00a3500/mo"
+            ],
+            "frequently_asked_questions": [
+                "Can I cancel at any time?",
+                "Is it easy to change plans?",
+                "Does Cledara work with all software?",
+                "How do you bill?",
+                "What are the savings on an annual plan?",
+                "Can I get a demo?",
+                "I know the plan I want. Where do I get started?",
+                "Is Cledara safe and secure?",
+                "Does Cledara support multiple entities?",
+                "What if I have another question?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes, you can cancel at any time.",
+                "Yes, it is easy to change plans.",
+                "Yes, Cledara works with most software.",
+                "We bill monthly or annually.",
+                "You save 16% on an annual plan.",
+                "Yes, you can request a demo.",
+                "You can get started by signing up.",
+                "Yes, Cledara is safe and secure.",
+                "Yes, Cledara supports multiple entities.",
+                "Feel free to reach out with any other questions."
+            ]
+        }
+    },
+    {
+        "url": "https://clevertap.com/pricing/",
+        "company": "clevertap",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Let\u2019s Talk",
+            "tier_names": [
+                "Essentials",
+                "Advanced",
+                "Cutting Edge"
+            ],
+            "tier_prices": [
+                "$75 / Month",
+                "Talk to us",
+                "Talk to us"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://clickup.com/pricing",
+        "company": "clickup",
+        "ai_pricing_model": "Addon",
+        "category": "Project Management & Maintenance",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Free Forever",
+                "Unlimited",
+                "Business",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free",
+                "$7",
+                "$12",
+                "Contact sales"
+            ],
+            "frequently_asked_questions": [
+                "Can I upgrade myself or do I have to upgrade my entire Workspace?",
+                "How am I billed when I add paid users to a Workspace?",
+                "Do you offer discounts for nonprofits, students, educators, or startups?",
+                "How do I change my plan if I start on the Free Forever Plan?",
+                "What happens when I hit my usage limits?",
+                "What payment methods do you accept?",
+                "What if I have multiple Workspaces?",
+                "Do you have a public roadmap?",
+                "Do tasks count against my storage?",
+                "Does adding Guests to my Workspace affect my plan or how I'm billed?",
+                "What is your refund policy?",
+                "What happens if I cancel?",
+                "Is the Free Forever Plan really free?",
+                "What is a 'use' in context of ClickUp's plans?"
+            ],
+            "frequently_asked_questions_answers": [
+                "To upgrade ClickUp, you'll need to upgrade your entire Workspace, which means all members in your Workspace.",
+                "ClickUp automatically bills you at a prorated price based on the time left in your cycle for any paid users added to your Workspace. Paid users include any member role types and people invited to your Workspace from within your organization.",
+                "Yes to all of the above! Check out the resources below for more information: For nonprofits, head to this link and click the 'Claim your nonprofit discount' button to get started; For students, educators, and administrators, head to this link and click the 'Claim your academic discount' button to get started; For startups, fill out and submit this form to apply for a startup credit, or head to this page for more info.",
+                "Once you've created a team, we built a handy billing area to take care of all plan, cycle, and payment details.",
+                "You'll still be able to use ClickUp, and we'll let you know as soon as a limit is reached. We're happy to provide a grace period to find the plan that works for you!",
+                "We accept all major credit cards! For Enterprise orders meeting a minimum we also accept bank transfers.",
+                "Payment is per Workspace, meaning each Workspace requires an individual upgrade.",
+                "We certainly do! You can find it here.",
+                "No! File attachments are the only things that affect your team's storage.",
+                "Free Forever Workspaces can have an unlimited number of members and guests at no charge. On the Free Forever Plan, guests have full create and edit permissions, which cannot be modified. Workspaces on a paid plan start with a limited number of external guest seats and unlimited read-only guests.",
+                "We have a 100% satisfaction guarantee. If for any reason, you're not satisfied with your purchase, simply let us know within 30 days and we'll be happy to issue you a full refund.",
+                "You're free to cancel at anytime! When you do, your current plan will last until the end of your billing cycle, unless you choose to downgrade immediately.",
+                "For sure! This is so much more than a trial. The Free Forever Plan offers an unmatched level of functionality compared to other 'freemium' apps. We do this by making money on our paid plans.",
+                "'Uses' are intended as a demonstration of paid plan features, allowing you to explore their value for your workflows. Uses are cumulative throughout a Workspace and they do not reset or count down."
+            ]
+        }
+    },
+    {
+        "url": "https://coda.io/pricing",
+        "company": "coda",
+        "ai_pricing_model": "Usage",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Free",
+                "Pro",
+                "Team",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free",
+                "$10/month per Doc Maker",
+                "$30/month per Doc Maker",
+                "Custom"
+            ],
+            "frequently_asked_questions": [
+                "What is a 'Workspace'?",
+                "What is a 'Doc Maker'?",
+                "Who do I pay for and why?",
+                "How much does Coda AI cost?",
+                "What is a credit?",
+                "How can I get more AI credits?",
+                "Can I give edit access to people outside of my workspace?",
+                "What happens when I publicly share my doc?",
+                "When will I get billed for my workspace?",
+                "Do I get a refund if I remove members from my workspace or cancel my plan?",
+                "Do you offer discounts for students, educators, non-profits, or startups?",
+                "How does Enterprise pricing work?"
+            ],
+            "frequently_asked_questions_answers": [
+                "A workspace is the home for you and your team in Coda. It will store your docs in an organized way, and you can invite Doc Makers and Editors into your workspace to collaborate all in one place. For administrators, this is the place where you'll configure your team's settings and manage your account.",
+                "Doc Makers can create and manage docs, pages, folders, and workspaces. Specifically \u2014 in workspaces, Doc Makers have the power to create new docs and templates and create and manage folders to organize the workspace. Within docs, Doc Makers can administer things like adding pages, changing doc and page titles and icons, adjusting the timezone, configuring doc and page locking etc. Coda AI is also included for Doc Makers.",
+                "Upgrading a free workspace to a paid plan can be done with a single Doc Maker or can include your whole team to start. As you grow into Coda, you can invite additional members to become Editors or Doc Makers in your workspace. Editors and Viewers are always free. At the end of each billing cycle, you will be billed for the workspace based on how many Doc Makers are in the workspace. Any changes to the number of Doc Makers in the workspace mid-cycle are automatically prorated.",
+                "Coda AI is included for Doc Makers, and Editors also receive a free trial. Based on your plan and number of Doc Makers, each workspace receives a set of credits each month, that are pooled across all Doc Makers.",
+                "Credits are Coda's way of counting how much AI you use. You could think about credits as fragments of text. 1 credit is approximately 40 characters in English, or 7.5 words. Anytime you use Coda AI, we measure how much content is in the input + the output and convert those into credits. So if you have a huge block of text and ask for a small summary, your number of credits will be based on the large input + small output. If you have a small prompt asking AI to write a long essay, you'll have a small input + large output. And if you have a large input and large output, you'll add those lengths together to get your total credits used for that request.",
+                "If you have used all of your allotted credits, or would like to access more, you can add more Doc Makers to your workspace, upgrade your plan, or purchase an AI credit add-on. You can purchase 2,000 credits for $2/Doc Maker/Month, 6,000 credits for $6/Doc Maker/month, or unlimited credits for $12/Doc Maker/month (billed monthly).",
+                "Yes! Whenever you share a doc with someone outside of your workspace, they will be added as a Guest Editor (though you can turn this ability off if you'd like). Guest Editors can edit content in individual docs shared with them, but cannot add and manage pages, or browse the doc's workspace or folder. Guest Editors are free, just like Editors in your workspace. All Editors and Viewers in a workspace are free! Viewers can open any shared link to a doc and view and comment on it. Just like Guest Editors, Viewers are also guests and cannot see the full workspace or folder.",
+                "You can always share a doc to anyone with a link through the sharing feature inside the doc.",
+                "When you sign up for a new plan, as well as when it renews, you will be billed up front for all the users in your workspace. Whenever you add a new paid user to your workspace (or upgrade an existing one), we'll prorate them for the remainder of your billing cycle. On the annual plan, you will be charged monthly for these additional membership changes, with prorations applied for the remainder of the billing year. Additionally, you will be charged whenever your bill exceeds $1,000 from adding new members.",
+                "When you remove members or cancel your plan, we'll apply a prorated credit onto your account you can use for future charges in your workspace.",
+                "Yes! Students and educators can receive several discounts, depending on your needs. Non-profits can receive a 50% discount. Eligible startups can get the Team plan free for 6 months for their workspace.",
+                "You only pay for Doc Makers, even on Enterprise. With increased scalability, security and support, Enterprise plans are a great pick if you're planning to roll out Coda across multiple teams or departments. Coda's pricing scales to fit enterprise teams at every stage and we work with you to find the custom fit for your situation."
+            ]
+        }
+    },
+    {
+        "url": "https://codecademy.com/pricing",
+        "company": "codecademy",
+        "ai_pricing_model": "Tiered",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Sign up",
+            "tier_names": [
+                "Basic",
+                "Plus",
+                "Pro"
+            ],
+            "tier_prices": [
+                "$0",
+                "$14.99 a month, billed annually or $29.99 billed monthly",
+                "$19.99 a month, billed annually or $39.99 billed monthly"
+            ],
+            "frequently_asked_questions": [
+                "What\u2019s the difference between Basic, Plus, and Pro?",
+                "Do I need to know how to code before signing up?",
+                "What are skill paths and career paths?",
+                "What\u2019s the difference between a certificate of completion and a professional certification?",
+                "Is Codecademy suitable for children?",
+                "Do you offer a student discount?",
+                "Do you offer discounts for military, first responders, and healthcare workers?",
+                "Do you offer discounts for people receiving government assistance?",
+                "Why should I upgrade from Basic?",
+                "How do I upgrade from Plus to Pro?",
+                "How do I cancel my subscription?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Basic is free, Plus is $14.99/month billed annually or $29.99/month, Pro is $19.99/month billed annually or $39.99/month.",
+                "No, you do not need to know how to code before signing up.",
+                "Skill paths are structured learning paths for specific skills, while career paths are designed to help you land a job in a specific field.",
+                "A certificate of completion is awarded for completing a course, while a professional certification is a recognized credential in the industry.",
+                "Yes, Codecademy offers courses suitable for children.",
+                "Yes, we offer a student discount.",
+                "Yes, we offer discounts for military, first responders, and healthcare workers.",
+                "Yes, we offer discounts for people receiving government assistance.",
+                "Upgrading from Basic gives you access to more resources and features.",
+                "You can upgrade from Plus to Pro through your account settings.",
+                "You can cancel your subscription through your account settings."
+            ]
+        }
+    },
+    {
+        "url": "https://cohere.com/pricing",
+        "company": "cohere",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Contact Sales",
+            "tier_names": [
+                "Command R+",
+                "Command R",
+                "Fine-tuned Model Command R",
+                "Command R7B",
+                "Rerank 3.5",
+                "Embed 3"
+            ],
+            "tier_prices": [
+                "$2.50 / 1M tokens (Input)",
+                "$10.00 / 1M tokens (Output)",
+                "$0.15 / 1M tokens (Input)",
+                "$0.60 / 1M tokens (Output)",
+                "$0.30 / 1M tokens (Input)",
+                "$1.20 / 1M tokens (Output)",
+                "$3.00 / 1M tokens (Training)",
+                "$0.0375 / 1M tokens (Input)",
+                "$0.15 / 1M tokens (Output)",
+                "$2.00 / 1K searches (Rerank)",
+                "$0.10 / 1M tokens (Embed)",
+                "$0.0001 / 1 Image (Image Cost)"
+            ],
+            "frequently_asked_questions": [
+                "How do I get a Trial API Key?",
+                "How do I get a Production API key?",
+                "What is the difference between a Trial API key and Production API key?",
+                "Are there any account limitations upon signup?",
+                "What is the difference between an organization and a personal account?",
+                "Which model should I pick?",
+                "When do I get billed?",
+                "The endpoint I\u2019m using is billed by token. What is a token?",
+                "What endpoints does the Command R family support?",
+                "Where do I find pricing for our legacy models (i.e. Rerank 2, Command Light, and Classify)?",
+                "What is the cost for accessing the research Aya models via the API?"
+            ],
+            "frequently_asked_questions_answers": [
+                "When an account is created, we automatically create a Trial API key for you. This API key will be available on the dashboard for you to copy, as well as in the dashboard section called 'API Keys.'",
+                "To get a Production key, you'll need to have Owner privileges (or ask your organization Owner to complete the following steps). Navigate to the Billing and Usage page in your Cohere dashboard. Click on the Get Your Production key button and fill out the Go to Production workflow.",
+                "API calls made from a Trial API key are free. However, trial keys are rate limited and are not permitted to be used for production or commercial purposes. API calls made from a Production API key will be charged on a pay-as-you-go basis. Production API keys are designed for production use at scale.",
+                "Every account begins as a personal account and only has access to Trial API keys. As a personal account, you will not be able to add other members until you become part of an organization.",
+                "At Cohere, an organization is a group of personal accounts that share a singular billing portal. Organizations are not automatically given Production API key access, and a member of the organization must still fill out our application form for production access. Personal accounts cannot share billing information with other accounts.",
+                "Your model selection reflects your relative prioritization of model performance and speed. Larger models offer better performance and are capable of more complex tasks, while smaller models have faster response times.",
+                "API calls made from a Trial API key will be free. API calls made from a Production key will be billed on a pay-as-you-go basis. Your bill will be issued at the end of every calendar month or when you reach $250 in outstanding balances.",
+                "Language models understand 'tokens' rather than characters or bytes. The number of tokens per word depends on the complexity of the text. Simple text may approach 1 token per word on average, while complex texts may use less common words that require 3-4 tokens per word on average. For more details on tokens, refer to the documentation.",
+                "The Command R family supports the chat endpoint. For existing customers using the summarize or generate endpoints, pricing will not change, remaining at $0.50/1M Tokens for Input and $1.50/1M Tokens for Output.",
+                "For existing customers: Classify pricing is $0.05/1K Classifications for Input and Output, Command pricing is $1.00/1M Tokens for Input and $2.00/1M Tokens for Output, Command-light pricing is $0.30/1M Tokens for Input and $0.60/1M Tokens for Output, Command R 03-2024 pricing is $0.50/1M Tokens for Input and $1.50/1M Tokens for Output, Command R+ 04-2024 pricing is $3.00/1M Tokens for Input and $15.00/1M Tokens for Output, Rerank 2 pricing is $1.00/1K Searches for Input and Output.",
+                "Aya Expanse models (8B and 32B) on the API are charged at $0.50/1M Tokens for Input and $1.50/1M Tokens for Output."
+            ]
+        }
+    },
+    {
+        "url": "https://www.constantcontact.com/pricing",
+        "company": "constantcontact",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Choose plan",
+            "tier_names": [
+                "Premium",
+                "Standard",
+                "Lite"
+            ],
+            "tier_prices": [
+                "$80/month",
+                "$35/month",
+                "$12/month"
+            ],
+            "frequently_asked_questions": [
+                "How do I know which plan is right for me?",
+                "Do I have to provide my credit card in order to start the free trial?",
+                "Do you offer any discounts for nonprofits?",
+                "Do you offer any discounts for organizations seeking multiple accounts?",
+                "I am a marketing agency/freelancer and I help small businesses. Do you have a reseller or referral program?",
+                "Can I connect my CRM to Constant Contact email marketing?",
+                "I don't have much experience in marketing. Do you offer any services to help me get started?",
+                "Do you provide additional assistance if I am coming in with a large list of contacts?",
+                "I have more than 50,000 contacts, how much will this cost?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Our Standard package is the best fit for the majority of our customers. It provides access to email and social marketing, and includes the most common marketing automation tools, contact segmentation tools and our proprietary AI Content Generator. However, if you are just starting out and only looking to use basic email and social marketing, our Lite package would be a great fit. If you are looking to take your marketing to the next level with customized automations, customized segmentation, advanced reporting and premium ads, our Premium package is for you.",
+                "Not at all. Your trial is free with no commitment and no credit card required.",
+                "Absolutely! We offer nonprofits a 20% 6-month prepay discount and 30% for 12-month prepay. There is no discount for a monthly term. We will ask you to send us your Federal government Letter of Determination, 501 (c)3 or (c)6 if you are in the U.S, or equivalent type of documentation if outside of the U.S. New customers can sign up for their free trial and send in the required paperwork before the end of the trial period. If you are a member-based organization, or if you are seeking multiple Constant Contact accounts, consider our Partner Program. We\u2019ll provide you with a dedicated account manager, a discounted rate for your members, and more.",
+                "Yes\u2014we have a multi-account option for organizations looking to centralize digital marketing, and have some level of control from a corporate level. It\u2019s a great fit for corporations, franchises, and organizations with various departments/locations. We\u2019ll provide bulk pricing discounts and a dedicated account manager\u2014and optional tools to keep your brand consistent, like locked branded templates.",
+                "Yes! Whether you manage email marketing for your client(s), or you\u2019re looking to refer clients/prospects to us, please join our Agency Partner Program. We\u2019ll provide you with a free account and a unique referral link\u2014you\u2019ll earn a cash bonus and ongoing revenue share for each account you sign up/refer. Plus, you can access multiple client accounts from a single dashboard.",
+                "We offer integrations with many of the top business management, Ecommerce, and CRM systems including Salesforce, MindBody, DonorPerfect, Zoho, and more. View our list of 3rd party integrations.",
+                "We do! We have in-house experts who are readily available to provide the tailored guidance and assistance you need do email and online marketing that drives results. If you prefer to have our experts handle everything, our professionals can build your marketing strategy, create your emails, curate content and set up custom reporting. Rates start as low as $60/mo.",
+                "Yes. We\u2019ll pull out the white-glove treatment to get your email marketing set up and you\u2019ll get priority support for life, at no extra cost. We\u2019ll upload and group your contacts, create a professional design, and help you automate your campaigns so you save tons of time.",
+                "If you plan to have more than 50,000 contacts, please call us at 855-783-2308 for a custom quote."
+            ]
+        }
+    },
+    {
+        "url": "https://coschedule.com/pricing",
+        "company": "coschedule",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Get Started Free",
+            "tier_names": [
+                "Free Calendar",
+                "Social Calendar",
+                "Agency Calendar",
+                "Content Calendar",
+                "Marketing Suite"
+            ],
+            "tier_prices": [
+                "$0",
+                "$19 USD Per User/Month",
+                "$49 USD Per User/Month",
+                "Call",
+                "Call"
+            ],
+            "frequently_asked_questions": [
+                "Is there a free version of the Calendar?",
+                "Which payment types do you accept?",
+                "Do you offer discounts for nonprofits?",
+                "Do you offer any other discounts?",
+                "How do I get started with Marketing Suite or Content Calendar?",
+                "How do I upgrade from a Free Calendar to a Paid Calendar?",
+                "Can my entire team use the calendar?",
+                "I\u2019m just getting started. How can I learn more about CoSchedule products?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes. There is a Free Calendar which is perfect for individuals or freelancers looking to organize their marketing. It\u2019s a great place to get started with CoSchedule\u2019s Calendar products.",
+                "Credit card, bank account, Apple Pay (in Safari browser), and Google Pay (in Chrome browser) payments are accepted for Social Calendar. We may also accept other payment types for Content Calendar or Marketing Suite plans. Check with your Salesperson for details. For more information on billing, visit our Billing FAQs support doc.",
+                "Yes. To make it easier for your nonprofit to organize all of your marketing with CoSchedule, we offer a 30% off discount on all our paid plans.",
+                "Yes. Customers that purchase annual plans receive a discount on their Calendar at time of purchase. We also offer a Referral & Review Program.",
+                "To get started schedule your demo with one of our CoSchedule experts. You\u2019ll get 1:1 time to learn about Content Calendar and Marketing Suite, and see how these products can help you coordinate your team, projects, & process.",
+                "Want to upgrade to Social Calendar or Agency Calendar? Visit the billing page in your account. There you can select your new plan. Once you complete the billing prompts, your account will automatically upgrade to Social or Agency Calendar to unlock your new features.",
+                "You can invite your team to collaborate in the same calendar in the following plans: Social Calendar, Agency Calendar, Content Calendar, and Marketing Suite. Free Calendar is only for single users.",
+                "If you\u2019re using Free Calendar, Social Calendar, or Agency Calendar, check out our Getting Started Guides to learn the basics of using your new calendar. If you\u2019re in a Content Calendar or Marketing Suite plan, you\u2019ll get personalized onboarding and support from a dedicated Customer Success Manager."
+            ]
+        }
+    },
+    {
+        "url": "https://www.couchbase.com/pricing/",
+        "company": "couchbase",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Request Pricing",
+            "tier_names": [
+                "Free",
+                "Basic",
+                "Developer Pro",
+                "Enterprise",
+                "Capella Columnar Developer Pro",
+                "Capella Columnar Enterprise",
+                "Couchbase Server",
+                "Couchbase Mobile"
+            ],
+            "tier_prices": [
+                "Free",
+                "from $0.15/hr per node",
+                "from $0.35/hr per node",
+                "from $0.56/hr per node",
+                "from $0.61/hr per node",
+                "from $0.98/hr per node",
+                "Request Pricing",
+                "Request Pricing"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://www.databricks.com/product/pricing",
+        "company": "databricks",
+        "ai_pricing_model": "Usage",
+        "category": "Analytics",
+        "data": {
+            "call_to_action": "Start free trial",
+            "tier_names": [
+                "Workflows & Streaming",
+                "Data Warehousing",
+                "Interactive workloads",
+                "Generative AI",
+                "Platform",
+                "Managed Services",
+                "Data Transfer and Connectivity",
+                "Storage",
+                "Collaboration"
+            ],
+            "tier_prices": [
+                "$0.15 / DBU",
+                "$0.22 / DBU",
+                "$0.40 / DBU",
+                "$0.07 / DBU"
+            ],
+            "frequently_asked_questions": [
+                "What does the free trial include?",
+                "What happens after the free trial?",
+                "Is pricing based on usage or storage volume?",
+                "What is a DBU?",
+                "Is pricing the same in every region?",
+                "Is Databricks as cost effective as other cloud services or open source solutions?",
+                "What is Databricks Community Edition?",
+                "How will I be billed?",
+                "Do you provide technical support?",
+                "How are Promotional Discounts applied?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Your trial includes free access to the Databricks Data Intelligence Platform, which allows you to manage all your data, analytics and AI in one place. You may also invite colleagues or collaborators to use your account during or after your trial. Please note that if you configure Databricks to work with your own cloud account, you will still be charged by your cloud provider for resources, like compute instances, used within your account during the free trial. Some trials include credits that can be spent on Databricks services. These credits are not transferable, cannot be combined with other promotions or negotiated terms, and are not available to customers who previously accepted them. A customer\u2019s eligibility for credits under this offer, the amount of credits (if any), and when any credits expire are solely determined by Databricks following account creation. A customer\u2019s trial ends when their credits are exhausted.",
+                "At the end of the trial, you are automatically subscribed to the plan that you have been using during the trial. You may need to input a valid payment method to continue using Databricks. You can cancel your subscription at any time.",
+                "Databricks pricing is based on your compute usage. Storage, networking and related costs will vary depending on the services you choose and your cloud service provider.",
+                "A Databricks Unit (DBU) is a normalized unit of processing power on the Databricks Lakehouse Platform used for measurement and pricing purposes. The number of DBUs a workload consumes is driven by processing metrics, which may include the compute resources used and the amount of data processed.",
+                "Databricks prices and Cloud Infrastructure prices may vary based on geographic region and cloud service provider. For details, please see the Databricks pricing pages for individual products.",
+                "Databricks products are priced to provide compelling Total Cost of Ownership (TCO) to customers for their workloads. When estimating your savings with Databricks, it is important to consider key aspects of alternative solutions, including job completion rate, duration and the manual effort and resources required to support a job. To help you accurately estimate your savings, we recommend comparing side-by-side results as part of a proof of concept deployment.",
+                "Databricks Community Edition is a free, limited functionality platform designed for anyone who wants to learn Spark.",
+                "Charges for usage of Azure Databricks are billed directly by Microsoft and are governed by your Azure subscription terms. The following description applies to Databricks usage on other clouds. For Pay-As-You-Go (PAYG) accounts, your credit card on file will be billed monthly based on your usage of Databricks Platform Services at the rates specified in the Price List. You may be charged more frequently for fees accrued, with the remaining balance billed at the end of the month. An invoice will be sent to reflect the charges billed. You must maintain a valid and up-to-date credit card on file. You may cancel your PAYG account at any time by following the instructions outlined here.",
+                "We do offer technical support. You can also check the technical documentation.",
+                "Promotional Discounts are identified on the Price List or are communicated to eligible customers. Databricks will publish or communicate additional details (such as eligibility criteria, duration, or whether a Promotional Discount cumulates with Committed Use Contract discounts)."
+            ]
+        }
+    },
+    {
+        "url": "https://deel.com/pricing",
+        "company": "deel",
+        "ai_pricing_model": "Tiered",
+        "category": "Human Resources & Legal",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Deel Contractor",
+                "Deel EOR",
+                "Deel Payroll",
+                "Deel US Payroll",
+                "Deel US PEO",
+                "Deel Engage",
+                "Deel HR",
+                "Deel IT",
+                "Deel Immigration"
+            ],
+            "tier_prices": [
+                "$49/month",
+                "$599/month",
+                "$29 per employee/month",
+                "$19 per employee/month",
+                "$89 per employee/month",
+                "$20 per employee/month",
+                "Free",
+                "$99 per month",
+                "Get a custom quote"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://www.deepbrain.io/pricing",
+        "company": "deepbrain",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Free",
+                "Personal",
+                "Team",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0/Mo",
+                "$24/Mo",
+                "$55/Mo",
+                "Custom Plan"
+            ],
+            "frequently_asked_questions": [
+                "What is the best way to convert text to video?",
+                "What are the benefits of using an AI video generator?",
+                "Do AI video generators support multi-language?",
+                "How can AI be used to generate video scripts?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The best way to quickly convert text to video is by using an AI video generator like DeepBrain AI or D-ID. This software uses AI to generate digital content by processing text instructions and input, eliminating the need for shooting, editing, and hiring actors. The tool offers diverse and realistic AI avatars, supports multiple languages with natural voices, and has user-friendly interfaces.",
+                "AI video generators offer high-quality, customizable content creation, cost-effectiveness, and hyper-realistic AI avatars with lifelike voices, movements, and appearance. With these AI tools, you don't need cameras, microphones, or actors, allowing you to create professional video content quickly and with little to no experience required.",
+                "AI video generators like Deepbrain AI support multiple languages and translation services. Deepbrain AI provides text-to-speech capabilities in over 80 languages, with natural accents and voices. It also offers a variety of avatars representing different nationalities, making it easy to create localized videos at scale.",
+                "Using ChatGPT, you can generate video scripts, brainstorm ideas, check grammar, and even translate your script. Deepbrain AI integrates ChatGPT into their AI video generator, making it easily accessible during the video creation process. It can also help convert text to video using powerful generative AI capabilities."
+            ]
+        }
+    },
+    {
+        "url": "https://deepgram.com/pricing",
+        "company": "deepgram",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Sign Up Free",
+            "tier_names": [
+                "Pay As You Go",
+                "Growth",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free $200 of credit",
+                "$4k+/ year",
+                "$10k+/ year"
+            ],
+            "frequently_asked_questions": [
+                "How is multichannel billed?",
+                "What's the difference between Nova, Enhanced and Base models?",
+                "Which file types can you transcribe?",
+                "How does billing work?",
+                "What unit of time is billed, minutes or seconds?",
+                "Can you transcribe live streaming audio?",
+                "Can Deepgram transcribe real-time conversations?",
+                "What happens if I run out of credit before my Growth plan expires?",
+                "What languages do you support?",
+                "Can I get human support?",
+                "How many seats do I get?",
+                "Can I self-host Deepgram?",
+                "Are the Audio Intelligence features affected by the model I select?",
+                "Is streaming available for Deepgram TTS Aura?",
+                "How can I increase my concurrency and requests per minute for Aura TTS?",
+                "Is voice cloning available for TTS Aura?"
+            ],
+            "frequently_asked_questions_answers": [
+                "When you opt into using the multichannel feature, each channel is transcribed and billed separately. The total cost when using multichannel is the single-channel cost multiplied by the number of channels. When you do not enable multichannel, Deepgram converts your multichannel audio into mono single-channel audio, and it is transcribed and billed as one channel. We especially recommend using the multichannel feature on multichannel audio in which there is cross-talk (voices overlapping or talking over each other) for the most accurate transcription and speaker detection.",
+                "Nova is our newest and most powerful model, offering the best balance between accuracy and cost-effectiveness. Enhanced is a powerful ASR model that performs especially well with uncommon words. Base is our signature model, with a solid combination of accuracy and cost-effectiveness. Some languages are only supported by Enhanced and Base.",
+                "We support over 40 audio and video formats, documented here.",
+                "You purchase credit upfront with a credit card. Credit will be deducted from your balance as you use our API. Pay As You Go credit never expires. Growth plan credit expire 1 year from purchase unless you renew or upgrade.",
+                "Deepgram bills by the second of audio. For instance, if you transcribe 61 seconds of audio, we bill you for 61 seconds of usage, not 2 minutes (120 seconds).",
+                "Definitely. In fact, we\u2019ve got the fastest real-time transcription in the biz with latency times of under 300 milliseconds.",
+                "Yes! Our streaming API is designed for low latency and will return incremental transcripts as a speaker\u2019s sentence unfolds.",
+                "If you\u2019re on the Growth plan and have saved a credit card, you can continue to use our API with a 10% overage fee billed at the start of each month. This is still less than Pay As You Go rates. You can renew or upgrade your plan at any point to prevent an overage fee.",
+                "We support 30+ languages with Speech to Text and English for Text to Speech. We are actively increasing the number of languages available for our products.",
+                "Sure thing. You can get help from our community over at Discord or GitHub Discussions. If you are subscribed to our Enterprise plan, reach out to our support team via email or Slack for assistance.",
+                "We bill based on usage, not users. Add as many team members and collaborators as you wish!",
+                "Yes, our Enterprise plan offers self-hosted deployments of our voice AI products, for use in cloud environments or on-premises datacenters.",
+                "Our Audio Intelligence features such as topic detection and summarization are not dependent on the selected model. However, audio intelligence features are primarily affected by the transcript, so you should use the most accurate model available for your use case for best results.",
+                "Audio output streaming is available in our current TTS API. Text input streaming through websockets will be available soon.",
+                "Higher concurrency and requests per minute is available. Please contact sales.",
+                "Voice cloning is currently not available for Aura but we are looking into voice cloning in the future."
+            ]
+        }
+    },
+    {
+        "url": "https://www.edenai.co/pricing",
+        "company": "edenai",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "FREE",
+                "Professional",
+                "Team",
+                "Growth"
+            ],
+            "tier_prices": [
+                "FREE",
+                "$41/month",
+                "$166/month",
+                "$499/month"
+            ],
+            "frequently_asked_questions": [
+                "How to use Eden AI?",
+                "How much does it cost to use Eden AI?",
+                "Do I need to have AI providers accounts to use their technologies?",
+                "What providers are available on Eden AI?",
+                "How is the platform hosted? Will my data be stored or used by Eden AI?",
+                "I'm an AI provider, how can I add my solution to the platform?"
+            ],
+            "frequently_asked_questions_answers": [
+                "You can start using Eden AI directly by creating an account. We offer a few test credits for first Workflow executions. You don't need to subscribe to a plan to get started.",
+                "Using the various AI APIs generates a cost that will depend on the AI technology, the model you choose and the volume of data to be processed. You can either use our own partner accounts with providers or use your own accounts (with the 'Bring Your Own Account' option). If you use our accounts, you'll have to buy credit according to your consumption. You can activate an automatic reload so you don't have to charge your account manually. To use advanced features, you'll need to subscribe to one of our plans (Professional, Team or Growth), which are billed monthly or annually.",
+                "No: We are distributors of the AI models offered by the providers integrated in Eden AI. You don't need to create any account other than Eden AI. However, you can put your own API keys (Bring Your Own Account) to use the accounts you already have.",
+                "We offer AI models developed by the major market players: OpenAI, Google, Microsoft, Anthropic, etc. However, many other specialized providers are also available depending on the technology. You can discover them directly on the platform. Don't hesitate to suggest new AI models here: contact@edenai.co",
+                "We manage the hosting (on Amazon Web Services servers). However, we are GDPR compliant and we don't keep any data: we are just a gateway.",
+                "We are continuously integrating new AI models. If you ever want to integrate your API to one of our categories, please contact us. You can also contact us if you ever want to propose a new AI category: contact@edenai.co. For your information, the integration of an engine is free but we charge providers a commission on the revenues generated by the platform."
+            ]
+        }
+    }
+]

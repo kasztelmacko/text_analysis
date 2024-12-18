@@ -1,0 +1,753 @@
+[
+    {
+        "url": "https://www.mongodb.com/pricing",
+        "company": "mongodb",
+        "ai_pricing_model": "Usage",
+        "category": "Cybersecurity & IT Management",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Serverless",
+                "Dedicated",
+                "Shared",
+                "MongoDB Enterprise Advanced"
+            ],
+            "tier_prices": [
+                "$0.10/million reads",
+                "$57/month",
+                "$0/month",
+                "Contact Sales for pricing"
+            ],
+            "frequently_asked_questions": [
+                "Questions about pricing?",
+                "Talk to a product specialist about features, sizing, support plans, and consulting."
+            ],
+            "frequently_asked_questions_answers": [
+                "Chat Now",
+                "Chat Now"
+            ]
+        }
+    },
+    {
+        "url": "https://oneplan.ai/pricing",
+        "company": "oneplan",
+        "ai_pricing_model": "Tiered",
+        "category": "Project Management & Maintenance",
+        "data": {
+            "call_to_action": "Try for free",
+            "tier_names": [
+                "Free",
+                "Basic",
+                "Professional",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0",
+                "$7",
+                "$30",
+                "Contact us for price"
+            ],
+            "frequently_asked_questions": [
+                "Does OnePlan offer volume based pricing?",
+                "Do you need a OnePlan license to view reports via Power BI and other reporting tools?",
+                "Do you offer multi year contract discounts?",
+                "Do I need my own Office 365 account to use OnePlan?",
+                "Does OnePlan offer implementation services?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes, OnePlan offers volume based pricing based on the total number of users. Please contact us to learn more.",
+                "No, you do not need a OnePlan license to view OnePlan OData via Power BI or other reporting tools.",
+                "Yes, OnePlan does offer discounts for multi year commitments. Please contact us to learn more.",
+                "No, OnePlan can provide you a username and password access if you do not have an Office 365 account. Contact us to learn more.",
+                "Yes, OnePlan has different implementation packages available."
+            ]
+        }
+    },
+    {
+        "url": "https://openai.com/pricing",
+        "company": "openai",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get Free",
+            "tier_names": [
+                "Free",
+                "Plus",
+                "Pro",
+                "Team",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0 / month",
+                "$20 / month",
+                "$200 / month",
+                "$25 per user / month billed annually, $30 per user / month billed monthly",
+                "Contact sales"
+            ],
+            "frequently_asked_questions": [
+                "How does ChatGPT\u2019s pricing work?",
+                "Is ChatGPT free to use?",
+                "Does OpenAI offer a ChatGPT plan for educational institutions?",
+                "Does OpenAI offer a discount for nonprofits?",
+                "How many users are supported on each subscription plan?",
+                "What are my payment options?",
+                "How secure is ChatGPT?",
+                "How does ChatGPT use my data?"
+            ],
+            "frequently_asked_questions_answers": [
+                "The free version of ChatGPT is available to everyone. Paid plans (Plus, Team, and Enterprise) are priced per user per month. We offer monthly plans for Plus and Team and annual plans for Team and Enterprise.",
+                "The free version of ChatGPT is available to everyone. Upgrading to Plus, Team, or Enterprise offers a more powerful experience through additional features and access to GPT-4.",
+                "Yes, ChatGPT Edu is an affordable plan built for universities to deploy AI more broadly across their campus communities. Powered by GPT-4o, ChatGPT Edu offers advanced capabilities, robust security and data privacy, and administrative controls. Contact our team to learn more.",
+                "Yes. Through OpenAI for Nonprofits, eligible nonprofits can receive a 20% discount on subscriptions to ChatGPT Team and a 50% discount to ChatGPT Enterprise. To apply for the ChatGPT Team discount, click here. To apply for a nonprofit discount on ChatGPT Enterprise, please contact sales.",
+                "Free and Plus plans are designed to be used by individuals. Team and Enterprise are for businesses. Team plans are available starting at 2 users. Please contact sales to learn more about our Enterprise plan.",
+                "You can purchase ChatGPT Plus or Team with any major credit card. For ChatGPT Enterprise, please contact sales for alternative payment options such as invoicing.",
+                "All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a Bug Bounty Program for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our Trust Portal for more details.",
+                "We give you control over your data. Read more about how your data is used and our Enterprise privacy."
+            ]
+        }
+    },
+    {
+        "url": "https://otter.ai/pricing",
+        "company": "otter",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Basic",
+                "Pro",
+                "Business",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free",
+                "$16.99 USD per user Billed Monthly",
+                "$30 USD per user Billed Monthly",
+                "Schedule a Demo"
+            ],
+            "frequently_asked_questions": [
+                "My colleagues and I have Otter accounts. Can we switch to Business?",
+                "What forms of payment can I use?",
+                "Can I pay with PayPal?",
+                "Is there a discount for students?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes! Sign into your account. Under Settings, select 'Upgrade to Business' and follow the prompts.",
+                "We accept credit and debit card payments on our Otter.ai website, and in-app purchases charged to your Apple App Store or Google Play account.",
+                "PayPal is not yet accepted, but we will definitely consider adding this option in the future.",
+                "Yes, we offer a 20% discount on Otter Pro Monthly and Otter Pro Annual plans for individual students and teachers using an email address ending with .edu."
+            ]
+        }
+    },
+    {
+        "url": "https://www.pagerduty.com/pricing/",
+        "company": "pagerduty",
+        "ai_pricing_model": "Usage",
+        "category": "Cybersecurity & IT Management",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Free",
+                "Professional",
+                "Business",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0 up to 5 users / month",
+                "$21 per user / month",
+                "$41 per user / month",
+                "Call Us"
+            ],
+            "frequently_asked_questions": [
+                "How many users do I need?",
+                "How does the 14-day trial work?",
+                "What are my payment options?",
+                "How many systems can I monitor?",
+                "How many notifications are included in my account?",
+                "Can I only purchase AIOps?",
+                "Are there any lower cost options for users who are not responders?",
+                "How is PagerDuty AIOps priced?",
+                "What's not included in Digital Operations Management?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Every person added to your PagerDuty account is a paid user, including those who are receiving notifications or are included in a schedule.",
+                "Our trial is a full-featured free trial for 14 days that you can start using instantly. No credit card required so you won\u2019t be charged until you are ready to buy. When you are ready, select any of the available plans to continue using PagerDuty.",
+                "We accept Visa, MasterCard, American Express, Discover, and JCB through your online account. Want to pay via invoice? Sure! We\u2019ll gladly set up an annual invoice. Just call or contact us.",
+                "You can monitor as many or as few systems as you want with PagerDuty. Whether you want to monitor one computer with Nagios or use Datadog, Icinga and Zenoss to monitor hundreds of applications across thousands of hosts, we won't charge you extra. We have 700+ pre-built integrations so you can connect PagerDuty to your monitoring tools of choice.",
+                "Notifications can be sent by email, push, SMS, and phone. All customers get unlimited email and push notifications. Professional, Business, and Digital Operations plans also get unlimited global SMS and phone notifications. Free customers receive 100 SMS and phone notifications.",
+                "You will have to purchase at least one user on a Professional or Business Incident Response plan to be able to purchase AIOps.",
+                "You can purchase lower cost user licenses for business stakeholders who get read-only access to your PagerDuty products. If you purchase the Business plan or Digital Operations plan, stakeholder users can subscribe to incidents for real-time updates during critical outages to improve organization-wide response.",
+                "PagerDuty is committed to providing customers with the best value and ROI. With that in mind, PagerDuty AIOps is licensed per accepted event. Accepted events are any valid events that are sent to and processed by PagerDuty via email integration or API with a successful 2xx response. The number of events should correlate with the number of 2xx responses a customer receives back from the events API. For more details, go here.",
+                "Global Event Orchestration is not included. See PagerDuty AIOps."
+            ]
+        }
+    },
+    {
+        "url": "https://www.salesforce.com/products/marketing-pricing/",
+        "company": "pardot",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Try for free",
+            "tier_names": [
+                "Starter Suite",
+                "Marketing Cloud Growth Edition",
+                "Marketing Cloud Advanced Edition",
+                "Data Cloud",
+                "Marketing Engagement",
+                "Account Engagement",
+                "Personalization",
+                "Marketing Intelligence",
+                "Customer Loyalty Solutions",
+                "Small Business Marketing",
+                "Standard Success Plan",
+                "Premier Success Plan",
+                "Signature Success Plan",
+                "Pro Suite",
+                "Professional Services",
+                "Partners"
+            ],
+            "tier_prices": [
+                "$25 USD/User/Month",
+                "$1500 USD/Org/Month",
+                "$3250 USD/Org/Month",
+                "From $108,000 USD/org/year",
+                "From $2,500 USD/org/year",
+                "From $1,250 USD/org/month",
+                "From $108,000 USD/org/year",
+                "From $3,000 USD/org/year",
+                "From $20,000 USD/org/year",
+                "From $1,500 USD/org/month",
+                "Included in all licenses",
+                "30% of net license fees",
+                "Contact your account executive",
+                "Try for free",
+                "Learn about Professional Services",
+                "Learn more"
+            ],
+            "frequently_asked_questions": [
+                "How much does Marketing Cloud cost?",
+                "Are there upfront costs or additional fees?",
+                "What if my business priorities and product needs have changed?",
+                "Do Salesforce products integrate with outside applications and systems?",
+                "How long are your contracts?",
+                "Can I upgrade at any time? Can I add more products later on?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Marketing Cloud is the platform name for a range of products that help marketers achieve success across every aspect of the marketer\u2019s role. The platform is sold through individual products that make up the entire portfolio, including our Data Cloud, Engagement, Personalization, and Marketing Intelligence solutions. Each product can be sold depending on the individual businesses needs, and are priced to cater for every business size and need. For more information, please review the detailed product breakdown on this page, or request a call with a sales representative today.",
+                "Salesforce has different add-ons, apps, and additional products to help your company stay ahead in your industry. For questions regarding Data Cloud, Marketing Cloud Engagement, Account Engagement, Personalization, Intelligence and Loyalty Management, please contact us to discuss exactly what kind of products you\u2019re looking to add and how we can help.",
+                "If and when your business priorities and product needs change, our editions and pricing structure has been established to cater to increases and decreases in product or solution usage. If changes are required, we recommend you work with your account teams to determine the different options available to you.",
+                "Yes, Salesforce products integrate with many outside applications and systems. Our Marketing Intelligence, Customer Data, and Engagement solutions support a wide range of partners and API integrations, which allow our customers to develop dynamic and integrated technology stacks.",
+                "Most Salesforce products use annual contracts, but Salesforce subscription terms vary. For any questions related to contracts for Data Cloud, Marketing Cloud Engagement, Account Engagement, Personalization, Intelligence, or Loyalty Management, please chat with a sales representative to discuss payment and billing options for your products.",
+                "Yes, of course. You are able to upgrade at any time as well as purchase additional products later on in your contract. We recommend engaging your account representative whenever you have questions around upgrades, add-ons, or contract information."
+            ]
+        }
+    },
+    {
+        "url": "https://www.pinecone.io/pricing/",
+        "company": "pinecone",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Get Started Today",
+            "tier_names": [
+                "Starter",
+                "Standard",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "Free",
+                "Pay as you go",
+                "Custom"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://pipedrive.com/pricing",
+        "company": "pipedrive",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Try it free",
+            "tier_names": [
+                "Essential",
+                "Advanced",
+                "Professional",
+                "Power",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "US$14",
+                "US$34",
+                "US$49",
+                "US$64",
+                "US$99"
+            ],
+            "frequently_asked_questions": [
+                "What is CRM pricing and how is it determined? What factors affect CRM software cost?",
+                "How much does a CRM cost on average?",
+                "Which CRM pricing models are available in Pipedrive? Which is the best one to choose?",
+                "Can my co-workers join my free trial?",
+                "Can I try different plans during my trial?",
+                "Are there any plan limits during my free trial?",
+                "Will my data be safe?",
+                "What is an add-on?",
+                "What\u2019s the difference between annual and monthly billing?",
+                "Which payment methods do you accept?",
+                "How can I contact customer support?",
+                "What are the prices associated with CRM?",
+                "What does it cost to implement a CRM?"
+            ],
+            "frequently_asked_questions_answers": [
+                "CRM pricing refers to the cost of implementing and using customer relationship management software. The price is determined by factors like number of users, features included in the software, integrations and level of support provided by CRM companies.",
+                "CRM costs vary widely depending on the CRM company and features included. On average, the typical cost of CRM software ranges from less than a hundred to several hundred dollars per user per year, with some enterprise-level solutions costing even more. To find the best CRM software prices, research and compare CRM providers based on their pricing plans and features. Pipedrive offers different solutions at price points to match users\u2019 requirements.",
+                "Pipedrive offers five main CRM plans: Essential, Advanced, Professional, Power and Enterprise. We recommend that you carefully evaluate your business needs and consider the features offered in each plan before deciding which CRM pricing model to choose. Take advantage of Pipedrive\u2019s 14-day free trial to test the software before making a purchase decision.",
+                "Yes, you can invite as many people as you want to join your Pipedrive trial. Simply click on your profile in the top right corner of your screen and select 'Add more users' from the drop-down menu.",
+                "Yes, you can switch between our Essential, Advanced and Professional plans for free as much as you want during your trial.",
+                "All of our plans except Enterprise have feature usage limits that also apply during the trial period. Upgrade to a higher plan for free during your trial to increase your limits.",
+                "Protecting your business data is one of our highest priorities. Learn more about our rigorous security and privacy standards.",
+                "Add-ons are additional Pipedrive tools that you can add to any plan. You are charged for add-ons per company, not per user.",
+                "The difference is how often you pay your subscription fee. With monthly billing, you will be charged on the same day each month. With annual billing, you are charged once for the whole year.",
+                "There are different ways to pay for Pipedrive including major credit cards, debit cards and PayPal. Your payment options depend on the country you live in.",
+                "Our friendly support team is ready to help out. Here\u2019s how to get in touch.",
+                "As well as the cost of the customer relationship management software itself, which differs based on pricing tier, some providers also charge users for implementation, setup, training, data migration, support and more. You may also be able to purchase credits to get access to more features or more access to the features already on your plan. Try to find a CRM that\u2019s transparent about its pricing. Pipedrive has no hidden costs, making it an excellent choice for anyone with a fixed budget.",
+                "The cost of implementing a CRM varies based on factors such as business size, software choice, user count, customization and integration needs. On-premises setups usually have higher upfront costs. Some CRM providers charge users for implementation. If you choose Pipedrive, implementation is free when you sign up for a pricing plan that\u2019s over $400 a year. Costs differ widely, so a thorough evaluation is essential for an accurate estimate."
+            ]
+        }
+    },
+    {
+        "url": "https://podium.com/pricing",
+        "company": "podium",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Get a demo",
+            "tier_names": [
+                "Core",
+                "Pro",
+                "Signature"
+            ],
+            "tier_prices": [
+                "$399 USD per month",
+                "$599 USD per month",
+                "Custom pricing"
+            ],
+            "frequently_asked_questions": [
+                "What is Podium?",
+                "Is Podium made for my industry?",
+                "Is Podium worth the cost?",
+                "What does Podium cost monthly?",
+                "What happens if I hit my Bulk Messages limit?",
+                "What's included in the base 10DLC fee?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Podium is a desktop and mobile digital platform that enables businesses to attract and convert more leads. We have a full suite of communication, marketing, payment, and review management tools that are all accessible in our consolidated platform. Plus, we\u2019re AI-powered! Some of our most used core features, including bulk marketing texts, inbox replies, and call summaries use Artificial Intelligence to help you market better, reply faster, and make it easier to convert more leads into sales.",
+                "Podium has proven to be successful for several commerce and service-based industries and sub-industries, including: Retail: Furniture, Appliance, Mattress, Jewelry; Home Services: HVAC dealers, Plumbing; Automotive: Auto dealers / OEM, auto repair and body shops; Health & Wellness: Medical Spas, Dermatology, Plastic Surgery, Dental Offices; Large Businesses: Businesses with multiple locations and/or complex business operations.",
+                "We totally understand how serious and important investments are for your business\u2014that\u2019s why we\u2019re transparent about our pricing and what goes into building your perfect plan. Our sales team can customize a plan for your business and help you decide if Podium is the right fit for you. We\u2019ve also put together several case studies that discuss how much businesses have increased their revenue and lead conversion rate with our tools and features.",
+                "Transparently, the monthly cost may vary depending on your specific business needs and operations. We\u2019ve outlined the base costs of our different plans above, but if you have specific questions, our sales and account teams will work with you to build the perfect plan based on your industry, partnerships, integrations, volume, and carrier fees.",
+                "Once you have reached your monthly Bulk Messages limit, you will not be able to send any additional Bulk Messages until the start of the following month. At any time, you can upgrade your bulk message limit by getting in touch with your dedicated Customer Success Manager.",
+                "The base 10DLC of $5 per month per location includes 3 message segments per second and up to 2,000 T-mobile messages per day per location."
+            ]
+        }
+    },
+    {
+        "url": "https://www.postman.com/pricing/",
+        "company": "postman",
+        "ai_pricing_model": "Addon",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Free",
+                "Basic",
+                "Professional",
+                "Enterprise"
+            ],
+            "tier_prices": [
+                "$0",
+                "$19 per user/month, billed monthly; $14 per user/month, billed annually",
+                "$39 per user/month, billed monthly; $29 per user/month, billed annually",
+                "$49 per user/month, billed annually"
+            ],
+            "frequently_asked_questions": [
+                "How do I get started?",
+                "What is included with the Free plan?",
+                "What is the top tier of customer support offered by Postman?",
+                "Is there a packaging change as part of the v11 release?",
+                "Do I have to upgrade my app in order to use the new features released in v11?",
+                "Can my company submit a purchase order? Can you invoice my company?",
+                "Can I increase licenses during my subscription?",
+                "Can I decrease licenses during my subscription?",
+                "What standard security questionnaires and reports are available from Postman?"
+            ],
+            "frequently_asked_questions_answers": [
+                "When you sign up, you're on the Free plan by default. The Free plan is designed for individuals or small teams of 3 or less just starting out with testing APIs. For more advanced capabilities, check out the Basic, Professional, and Enterprise plans.",
+                "The free version includes many features you know and love, including sending requests and inspecting responses, designing and mocking APIs, testing APIs, monitoring APIs, and much more. The free version is also a great place to start collaborating with up to three team members.",
+                "The Postman Enterprise plan offers our top-tier support package, with access to exclusive advanced features and add-ons, enterprise-grade availability, and a one-day response time. Customers on the Enterprise plan also receive support from our Customer Success team.",
+                "Yes, Postman now offers four plans. Here are a few highlights of changes we made to the plans: Essentials and Ultimate plans are consolidating into one powerful Enterprise plan at $49/user/month. The new Enterprise plan includes the Private API Network for secure internal collaboration. Professional plans now have access to Partner Workspaces for easy external collaboration. We've launched several new priced add-ons, affording a more modular way for you to extend your plan's capabilities with AI, testing, and external collaboration tools.",
+                "Yes. If you are using the Postman desktop app or if you are on an Enterprise plan with account-level deployment control, you will have to upgrade to v11 in order to begin using the new features. For Enterprise accounts with deployment control, contact your Team Admin to request an upgrade. If you are using the web version of Postman, beginning May 1, 2024, you will be able to access v11 features upon login.",
+                "The Postman Enterprise plan offers PO/invoicing as a payment option. The Enterprise plan also offers custom payment terms. The Postman Basic and Professional plans are only available for purchase by credit card.",
+                "Yes. For customers on the Postman Basic, Professional, and Enterprise plans, you can add licenses at any point in the subscription. If you're on the Basic or Professional plan, you can simply go to your management console to add a new member. With our Auto-Flex team policy, you won't be billed for the new users until either your next billing cycle for monthly plans or on a recurring quarterly basis for annual plans.",
+                "Yes. For monthly plans, a request to decrease the license seat count will be reflected in the following month's billing. For annual plans, a request to decrease license seats occurs at the next annual renewal.",
+                "Postman recognizes that our customers and prospects will require security-related information to adhere to their own organizational compliance policy requirements. Therefore, you can download the following standard security questionnaires and reports directly from the Postman Security & Trust Portal: The System and Organization Controls (SOC2) Type 2 and SOC 3 assessments and CAIQ - Consensus Assessments Initiative Questionnaire."
+            ]
+        }
+    },
+    {
+        "url": "https://renderforest.com/pricing",
+        "company": "renderforest",
+        "ai_pricing_model": "Tiered",
+        "category": "Design & Development",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Free",
+                "Lite",
+                "Pro",
+                "Business"
+            ],
+            "tier_prices": [
+                "$0.00",
+                "$9",
+                "$9.5",
+                "$20.3"
+            ],
+            "frequently_asked_questions": [
+                "Will my subscription plan renew automatically?",
+                "Can I upgrade my current plan whenever I wish?",
+                "Will I be able to export longer videos if I subscribe?",
+                "What is migration, and why was my plan migrated to another?",
+                "Can I pay any annual plan month by month?",
+                "How can I upgrade my storage?",
+                "How can I create unlimited 4K videos?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Any subscription plan renews automatically. If you don\u2019t want to be billed, cancel your subscription until the expiration date; otherwise, the system will bill your card automatically.",
+                "You can easily upgrade to a higher subscription plan by visiting the subscription page on your profile and clicking the Upgrade button in the top right corner of the subscription box. This option helps you to upgrade by paying only the difference.",
+                "Yes, if you subscribe to any subscription plan, the duration limit will be extended. You can create and export longer videos in HD quality with the paid plans.",
+                "To ensure that the newly performed updates and advantages are available for our loyal users, we have granted you an option to migrate with one click if you are already a subscriber. As we take care of our valuable users, we have removed the credit limit of your subscription plan so that you can create unlimited HD quality projects now with the same subscription plan.",
+                "There are both monthly and annual subscription plans available on Renderforest. All annual subscription plans are paid upfront, so if you want to pay month by month, you need to choose one of the monthly subscription plans.",
+                "To upgrade your storage, you need to upgrade your subscription plan to a higher one. Please go to the pricing page to proceed with the upgrade.",
+                "You need to subscribe to the Business plan to create unlimited 4K videos."
+            ]
+        }
+    },
+    {
+        "url": "https://www.resemble.ai/pricing/",
+        "company": "resemble",
+        "ai_pricing_model": "Usage",
+        "category": "Artificial Intelligence",
+        "data": {
+            "call_to_action": "Try it for Free. No Credit Card Needed!",
+            "tier_names": [
+                "CREATOR",
+                "PROFESSIONAL",
+                "BUSINESS",
+                "ENTERPRISE"
+            ],
+            "tier_prices": [
+                "$1 for the first month, and $29 for every month after that",
+                "$99 / month",
+                "$499 / month",
+                "Custom Pricing"
+            ],
+            "frequently_asked_questions": [
+                "Can the content I generate be used for commercial purposes?",
+                "What is the difference between Rapid Voice Clone and Professional Voice Clone?",
+                "What is required for professional voice cloning through data upload?",
+                "How do I track my usage?",
+                "Can I cancel at any time?",
+                "How do I change my subscription?",
+                "What languages do I get access to for Localize?",
+                "How do I get access to faster streaming?"
+            ],
+            "frequently_asked_questions_answers": [
+                "All content generated in all tiers is available for commercial use.",
+                "Rapid Voice Clone is all about speed and efficiency, while Professional Voice Clone is built for depth and nuance.",
+                "For professional voice cloning through data upload, we require explicit, verifiable consent from the voice talent.",
+                "To track usage, please proceed to the Billing Portal and see Current Usage.",
+                "You can cancel your subscription at any time through the Billing Portal.",
+                "You can change your subscription by going to our Billing Portal and clicking on Manage Subscription.",
+                "On the Trial, Personal, and Creator tiers, users have access to Spanish (MX), French, and British English. There are 68 languages available for Localize in the Professional plan, and 148 languages in the Business plan.",
+                "Enterprise customers get access to lower than 300ms time to first sound for streaming with greater consistency and concurrency."
+            ]
+        }
+    },
+    {
+        "url": "https://www.revenue.io/pricing",
+        "company": "revenue",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Get A Demo",
+            "tier_names": [
+                "Starter Growth Package",
+                "Optimized for the Enterprise",
+                "Maximum Growth"
+            ],
+            "tier_prices": [
+                "Get Pricing",
+                "Get Pricing",
+                "Get Pricing"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://www.ringcentral.com/ca/en/office/plansandpricing.html",
+        "company": "ringcentral",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Try free",
+            "tier_names": [
+                "Core",
+                "Advanced",
+                "Ultra"
+            ],
+            "tier_prices": [
+                "$30/user/month (annually), $40/user/month (monthly)",
+                "$35/user/month (annually), $45/user/month (monthly)",
+                "$45/user/month (annually), $55/user/month (monthly)"
+            ],
+            "frequently_asked_questions": [
+                "Is RingEX free to use? How long is RingEX free Trial?",
+                "Can I make unlimited calls with my RingCentral phone number?",
+                "What\u2019s the best plan if I\u2019m replacing an on-premise PBX system across multiple sites, branch locations, and global regions?",
+                "What apps does RingCentral integrate with?",
+                "How do you integrate with Microsoft Teams?",
+                "Do you have any special pricing or packages for Education customers?",
+                "What global compliance certifications does RingCentral have?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes. Free trial is available to new subscribers only. During the 14-day free trial, you will receive support for up to 20 phone lines. You can use any combination of RingCentral desktop phones (up to 2 devices during free trial) and the RingCentral app. The entire suite of RingEX features, including voice, auto attendant, online meetings, team messaging, fax and conferencing are available during the trial. SMS is not available for trial use.",
+                "Yes, you can make unlimited VoIP calls and conference calls using the RingCentral app to anyone in your organization. For external calls, you get unlimited phone calls within the US and Canada. For other international calls, RingCentral offers international calling plans and bundles at an affordable price.",
+                "There are 3 key administrative and 2 analytics features in the Advanced and Ultra packages that help organizations realize the benefits of consolidating and managing their communications in the cloud. Key administrative features include cost center management, multi-support admin and management and custom roles and permissions to control administrative functions. Analytics features include adoption analytics and Business Analytics Essentials providing key insights with ongoing usage.",
+                "RingCentral has over 330+ integrations across 200+ companies and leading business platforms to improve productivity, streamline communication within Customer Relationship Management (CRM) applications, automate application workflows and improve customer support.",
+                "RingCentral provides Microsoft Teams customers with business calling to help them expand their global reach, integrate flawless employee and customer experiences, and connect the apps they depend on.",
+                "RingCentral Education Essentials\u2122 and RingCentral Education Standard\u2122 are designed to provide flexible solutions for the hybrid or virtual classroom, district, or campus.",
+                "RingCentral is built on a secure cloud platform with a robust portfolio of security and compliance certifications, as well as compliance with global regulations, including HITRUST, GDPR, PCI, HIPAA and others."
+            ]
+        }
+    },
+    {
+        "url": "https://www.salesforce.com/editions-pricing/marketing-cloud/account-engagement/",
+        "company": "salesforce.marketing-cloud.account-engagement",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Contact us",
+            "tier_names": [
+                "Growth",
+                "Plus",
+                "Advanced",
+                "Premium"
+            ],
+            "tier_prices": [
+                "$1250 USD/Per month up to 10,000 contacts (Billed annually)",
+                "$2750 USD/Per month up to 10,000 contacts (Billed annually)",
+                "$4400 USD/Per month up to 10,000 contacts (Billed annually)",
+                "$15000 USD/Per month up to 75,000 contacts (Billed annually)"
+            ],
+            "frequently_asked_questions": [
+                "How much does Marketing Cloud cost?",
+                "Are there upfront costs or additional fees?",
+                "What if my business priorities and product needs have changed?",
+                "Do Salesforce products integrate with outside applications and systems?",
+                "How long are your contracts?",
+                "Can I upgrade at any time? Can I add more products later on?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Marketing Cloud is the platform name for a range of products that help marketers achieve success across every aspect of the marketer\u2019s role. The platform is sold through individual products that make up the entire portfolio, including our Data Cloud for Marketing, Marketing Cloud Engagement, Marketing Cloud Account Engagement, Marketing Cloud Personalization, Marketing Cloud Intelligence, or Customer Loyalty solutions. Each product can be sold depending on the individual businesses needs, and are priced to cater for every business size and need. For more information, please review the detailed product breakdown on this page, or request a call with a sales representative today.",
+                "Salesforce has different add-ons, apps, and additional products to help your company stay ahead in your industry. For questions regarding Data Cloud for Marketing, Marketing Cloud Engagement, Marketing Cloud Account Engagement, Marketing Cloud Personalization, Marketing Cloud Intelligence, or Customer Loyalty solutions, please contact us to discuss exactly what kind of products you\u2019re looking to add and how we can help.",
+                "If and when your business priorities and product needs change, our editions and pricing structure has been established to cater to increases and decreases in product or solution usage. If changes are required, we recommend you work with your account teams to determine the different options available to you.",
+                "Yes, Salesforce products integrate with many outside applications and systems. Our solutions support a wide range of partners and API integrations, which allow our customers to develop dynamic and integrated technology stacks.",
+                "Most Salesforce products use annual contracts, but Salesforce subscription terms vary. For any questions related to contracts for Data Cloud for Marketing, Marketing Cloud Engagement, Marketing Cloud Account Engagement, Marketing Cloud Personalization, Marketing Cloud Intelligence, or Customer Loyalty solutions, please chat with a sales representative to discuss payment and billing options for your products.",
+                "Yes, of course. You are able to upgrade at any time as well as purchase additional products later on in your contract. We recommend engaging your account representative whenever you have questions around upgrades, add-ons, or contract information."
+            ]
+        }
+    },
+    {
+        "url": "https://salesloft.com/pricing",
+        "company": "salesloft",
+        "ai_pricing_model": "Tiered",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Request a Demo",
+            "tier_names": [
+                "Advanced",
+                "Premier"
+            ],
+            "tier_prices": [
+                "Contact for pricing",
+                "Contact for pricing"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://scheduleonce.com/pricing",
+        "company": "scheduleonce",
+        "ai_pricing_model": "Tiered",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Sign up",
+            "tier_names": null,
+            "tier_prices": null,
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://www.scratchpad.com/pricing",
+        "company": "scratchpad",
+        "ai_pricing_model": "Addon",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Get started",
+            "tier_names": [
+                "Free",
+                "Standard",
+                "Business"
+            ],
+            "tier_prices": [
+                "$0",
+                "$19 user / month billed yearly, $24 user / month",
+                "$39 user / month billed yearly, $49 user / month"
+            ],
+            "frequently_asked_questions": null,
+            "frequently_asked_questions_answers": null
+        }
+    },
+    {
+        "url": "https://semrush.com/pricing",
+        "company": "semrush",
+        "ai_pricing_model": "Addon",
+        "category": "Analytics",
+        "data": {
+            "call_to_action": "Try for free",
+            "tier_names": [
+                "Pro",
+                "Guru",
+                "Business"
+            ],
+            "tier_prices": [
+                "$139.95 monthly",
+                "$249.95 monthly",
+                "$499.95 monthly"
+            ],
+            "frequently_asked_questions": [
+                "Can I cancel my subscription anytime?",
+                "What is Semrush\u2019s refund policy?",
+                "What payment methods do you accept?",
+                "Do I get a customer demo?",
+                "Can I use Semrush for free?",
+                "Am I charged when I enter my credit card?",
+                "Which would be better for me, Guru or Pro?",
+                "I run a small agency. What plan should I choose?",
+                "What is the pricing currency?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Yes, you can cancel your subscription, downgrade or upgrade your plan at any time.",
+                "You get a 7-day money-back guarantee on all plans. Submit your request via our contact form, and we will refund the payment made if the request is made within 7 days after the sign-up.",
+                "You can pay using the following payment methods: All major credit cards including Visa, Mastercard, Discover, American Express, and UnionPay; Wire transfer (upon request); Check or money order (US only, upon request).",
+                "Once you sign up for a Semrush free trial, request a free training session here. After your demo, you will be assigned a dedicated point of contact for all of your Semrush-related questions.",
+                "Yes. With a free account, you can still use a lot of tools, but you will be limited in your ability to pull all of the data and use other tools. The maximum number of requests made to the Analytics reports per day is limited to only 10 (Pro users have access to 3,000 searches, Guru \u2014 5,000 searches, Business \u2014 10,000 searches). As a free user, you can create and manage only one Project and track 10 keywords in Position Tracking.",
+                "We will charge a nominal amount to your credit card to check its validity; once confirmed, it will be immediately refunded. Until your Semrush trial period ends you won\u2019t be charged.",
+                "If you\u2019re a freelancer, blogger, or in-house marketer with a limited budget, then the Semrush Pro plan will likely be the best option. If you\u2019re a professional SEO consultant or an agency with numerous clients, then you will be best suited to the Semrush Guru plan.",
+                "You might choose Pro plan, which is the basic subscription, or Guru plan, which is the most popular for SMBs and growing agencies. The plans differ in the number of tools available as well as in the number of limits.",
+                "All prices are in US dollars."
+            ]
+        }
+    },
+    {
+        "url": "https://slack.com/pricing",
+        "company": "slack",
+        "ai_pricing_model": "Addon",
+        "category": "Collaboration & Productivity",
+        "data": {
+            "call_to_action": "Get Started",
+            "tier_names": [
+                "Free",
+                "Pro",
+                "Business+",
+                "Enterprise Grid"
+            ],
+            "tier_prices": [
+                "$0 USD/mo",
+                "$8.75$4.38 USD/mo Per active user, per month, when paying monthly $7.25 USD per active user when paying per year",
+                "$15 USD/mo Per active user, per month, when paying monthly $12.50 USD per active user when paying per year",
+                "Contact sales for pricing"
+            ],
+            "frequently_asked_questions": [
+                "How do I purchase Slack AI?",
+                "How does Slack AI work?",
+                "How does Slack AI protect the security of my data?",
+                "How can I pay for Slack? Can I pay by credit card, or can you invoice me?",
+                "Our team has several accounts which are not being actively used, but which we don\u2019t want to disable. Do we still have to pay for them?",
+                "We want to add new users to our workspace. How will that be billed?",
+                "Do you offer discounts for non-profit organizations or educational institutions?"
+            ],
+            "frequently_asked_questions_answers": [
+                "Slack AI is available to purchase as an add-on for all paid plans. Here\u2019s how to buy Slack AI: If you haven\u2019t signed up for Slack, create a workspace to get started. You can upgrade your workspace and purchase the Slack AI add-on at the same time. To do so, select a paid plan and then click With Slack AI. If you\u2019re on the Pro or Business+ plan, sign in to your account and click Get Slack AI on the Pricing page. On Enterprise Grid? Reach out to your Slack account executive or contact our Sales team.",
+                "Slack AI uses the discussions and information already in Slack to power a secure experience tailored to you and your organization: Summarize long conversations, Find answers to questions, Get a daily recap of less important channels.",
+                "Slack AI runs on Slack\u2019s trusted infrastructure, and upholds the security practices and compliance standards that customers expect from Slack itself. Slack does not share customer data with large language model (LLM) providers and does not use customer data to train LLMs. Visit our Help Center for more details. Our large language models are hosted directly within Slack\u2019s AWS virtual private cloud, ensuring your data remains in-house.",
+                "You can use a credit card to pay for any plan. If you choose to pay annually, you may be eligible to be invoiced and pay by ACH or wire transfer. Visit our Help Center for more details, or contact us to start the process. If you choose to pay by credit card, you\u2019ll see the first credit card charge from Slack on the day you purchase a paid plan. Here are some other times you\u2019ll see charges: On your monthly renewal date if you pay monthly. On your annual renewal date if you pay annually. On the last day of the month if you pay annually and there\u2019s an outstanding balance for adding new members. You can change billing cycles or switch to invoicing at any time.",
+                "At Slack, we believe you should only be billed for what you use. Members who take an action in Slack at any time within a 28-day period will be considered active for billing purposes. If someone you\u2019ve already paid for becomes inactive, we\u2019ll add a prorated credit to your account for the unused time.",
+                "You\u2019ll be charged a prorated amount for new team members for the remainder of the current billing period. As an example, suppose your team is on the Pro plan, which costs $8.75 USD per active user per month (when billed monthly). You add a new member 10 days into your billing period with 20 days remaining in the month. The per-day cost for each user is $8.75 divided by 30, so we\u2019ll make a one-time charge of $5.83 ($8.75 divided by 30 days times 20 days) to the credit card on file.",
+                "We do! Slack wants to support people doing good in the world, which is why we offer special discount pricing for qualified nonprofit organizations and educational institutions."
+            ]
+        }
+    },
+    {
+        "url": "https://smarterqueue.com/pricing",
+        "company": "smarterqueue",
+        "ai_pricing_model": "Usage",
+        "category": "Marketing & Sales",
+        "data": {
+            "call_to_action": "Start your free trial",
+            "tier_names": [
+                "Agency",
+                "Business",
+                "Solo",
+                "Custom"
+            ],
+            "tier_prices": [
+                "\u00a369.99 per month, paid annually",
+                "\u00a333.99 per month, paid annually",
+                "\u00a319.99 per month, paid annually",
+                "Custom pricing"
+            ],
+            "frequently_asked_questions": [
+                "How does the free trial work?",
+                "What happens after the trial ends?",
+                "How does the custom plan work?",
+                "How long are your contracts?",
+                "Can I pay annually?",
+                "Can you give more details about the differences between each plan?",
+                "What payment methods do you accept?",
+                "Are there any hidden fees or taxes?",
+                "Do you offer any discounts?",
+                "Do you have a referral/affiliate program?",
+                "I still have a question"
+            ],
+            "frequently_asked_questions_answers": [
+                "Try all of SmarterQueue's features for free! There are no obligations, and no credit card required. Only once you've set up your Posting Plan and queued up your first post does your 14-day trial period begin. And you can pause your Queue if you don't want to start publishing posts just yet.",
+                "We'll let you know when your trial is ending. If you decide to subscribe during your trial, you will only be charged after the free trial period. If you don't subscribe by the end of your trial, your Posting Plan and content remain intact, but your Queue will be paused. You can subscribe to a plan at any point, and carry on from where you left off.",
+                "You can choose any of our base plans, and then pick whichever Add-Ons you want, so that you only pay for what you need. As your business grows, simply upgrade the relevant Add-On.",
+                "You can pay month-by-month, or annually. You can upgrade, downgrade, or cancel at any time. Please note that refunds are not given for downgrades or cancellation.",
+                "Yes, and it's worth it! A full year's subscription saves you 15% compared to paying monthly. You can upgrade from monthly to yearly at any time.",
+                "You may have missed this in your excitement - click on the question mark icons in the Plans above for a detailed explanation.",
+                "Once you decide to subscribe, we accept credit/debit cards from Mastercard, Visa, Maestro, and Discover, as well as PayPal and ApplePay. Payments are securely handled by PayPalBraintree. Amex cards are only accepted via PayPal accounts.",
+                "There are no setup or cancellation fees, or any additional fees not shown above. EU-based customers are subject to VAT where applicable.",
+                "We sure do! Registered charities, non-profits, schools, universities, and students in full-time education all get 50% off any plan. Find out if you qualify, or get in touch. You can also earn discounts through our referral program.",
+                "Yes, and you'll love it! Once you've created a trial account, you can find your affiliate link in your Settings. Share your link with your audience, and when someone signs up for a paid account, your subscription will be credited with the value of their first month's payment. If you refer enough people, you may not have to pay for SmarterQueue ever again! And if you refer LOTS of people, we'll pay out your earnings in cash - great for affiliates. You can also become an affiliate without signing up for a free trial.",
+                "We're always here to help, and love hearing feedback - our contact page has details for reaching us by email."
+            ]
+        }
+    }
+]
