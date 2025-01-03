@@ -8,7 +8,7 @@ import requests
 
 load_dotenv()
 
-data = pd.read_csv("data/ai_pricing_index.csv").tail(40)
+data = pd.read_csv("data/ai_pricing_index.csv")
 
 app = FirecrawlApp(api_key=os.getenv("FIRECRAWL_API_KEY"))
 
